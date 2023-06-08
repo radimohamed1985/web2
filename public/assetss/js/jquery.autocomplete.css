@@ -1,0 +1,64 @@
+
+/* Extra Small Devices, Phones */ 
+    @media only screen and (max-width : 360px) {
+	
+
+      .ac_results ,ac_odd, ac_over { width:92% !important;}  
+
+    }
+
+
+
+.ac_results {
+	padding: 0px;
+	border: 1px solid #E9E9E9;
+	background-color: white;
+	overflow: hidden;
+	z-index: 99999;
+	min-width:194px !important;
+	}
+
+.ac_results ul {
+	
+	list-style-position: outside;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.ac_results li {
+	font-weight:bold !important;
+	border-bottom: 1px solid #ececec;
+	margin: 0px;
+	padding: 2px 5px;
+	cursor: default;
+	display: block;
+	/* 
+	if width will be 100% horizontal scrollbar will apear 
+	when scroll mode will be used
+	*/
+	/*width: 100%;*/
+	font: menu;
+	font-size: 11px;
+	/* 
+	it is very important, if line-height not setted or setted 
+	in relative units scroll will be broken in firefox
+	*/
+	line-height:23px;
+	overflow: hidden;
+}
+
+.ac_loading {
+	background: white url('indicator.gif') right center no-repeat;
+}
+
+.ac_odd {
+	background-color: #fff;
+}
+
+.ac_over {
+	cursor:pointer !important;
+	background-color:#EFECEC;
+	color:#077CC3;
+	font-weight:bold !important;
+}

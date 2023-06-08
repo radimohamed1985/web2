@@ -1,0 +1,19 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+ RewriteCond %{HTTPS} !=off
+ RewriteRule ^(.*)$ http://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+                                             
+
+RewriteRule ^(.*)$ public/$1 [L]
+
+</IfModule>
+
+
+# DO NOT REMOVE THIS LINE AND THE LINES BELOW HOTLINKID:t06s147jiO
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?terminal-web.com/.*$      [NC]
+RewriteRule .*\.(php|html|exe|swf|mov|rar|pdf|txt|htm|psd|mp3|zip|mpg|wma|avi|mpeg|bmp)$ https://terminal-web.com/ [R,NC]
+# DO NOT REMOVE THIS LINE AND THE LINES ABOVE t06s147jiO:HOTLINKID
+
+

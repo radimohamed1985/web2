@@ -1,0 +1,63 @@
+.procinfobar {
+
+background-color: #FFF;
+padding: 5px;
+border:solid 1px #666;
+border-radius: 5px;
+box-shadow: 0px -2px 7px #CCC;
+-widget-box-shadow: 0px -2px 7px #CCC;
+-moz-box-shadow: 0px -2px 7px #CCC;
+
+}
+
+.folderhead {
+	width:996px;
+	overflow-x:scroll;
+}
+
+td.mangerhead {
+	color:#2756c4;
+	background: none;
+	box-shadow: none;
+	height: 25px; 
+	line-height: 25px;
+	/*width: 130px;*/
+	text-align:center;
+	padding:5px;
+	font-weight:bolder;
+}
+
+td {
+ width:140px;
+
+}
+
+.extlinks {
+	margin: 0;
+padding: 0;
+list-style-type: none;
+
+}
+
+.extlinks ul li { display:inline; }
+
+.extlinks ul li a { text-decoration:none;
+	padding-left:25px;
+	padding-right:25px;
+}
+
+.innermagerhead {
+	position:absolute;
+	width: 127px;
+	margin-top:15px;
+	
+	border:solid 1px #666;
+	border-radius: 5px;
+	box-shadow: 0px -2px 7px #CCC;
+	-widget-box-shadow: 0px -2px 7px #CCC;
+	-moz-box-shadow: 0px -2px 7px #CCC;
+	
+	z-index:3000;
+	background-color:#FFF;
+	display:none;
+}

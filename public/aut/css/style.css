@@ -1,0 +1,71 @@
+body {
+  overflow-x: hidden;
+  background-image: url('../images/image1.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.fa-eye {
+  position: absolute;
+  right: 20%;
+  top: 44%;
+}
+.form-section {
+  margin-top: 25px;
+}
+.form-section .form-control {
+  color: rgb(255, 255, 255);
+  border-color: rgb(0, 0, 0);
+  background: rgba(255, 255, 255, 0.2) !important;
+}
+
+#form {
+  background: #000;
+  padding: 30px 20px;
+  border-radius: 10px;
+  border: 1px solid grey;
+}
+
+input {
+  background: #000 !important;
+  padding: 25px 10px !important;
+}
+
+.data {
+  font-size: 15px !important;
+}
+
+.auth-footer {
+  display: flex;
+  background: #000;
+}
+.auth-footer a,
+.auth-footer span,
+.auth-footer p {
+  color: rgba(255, 255, 255, 0.5);
+}
+.auth-footer a:hover {
+  color: #fff;
+}
+.login-navbar .navbar-brand {
+  width: 25%;
+}
+
+@media (max-width: 768px) {
+  body {
+    background-image: none;
+    background-color: #000 !important;
+  }
+  .login-navbar .navbar-brand {
+    width: 50%;
+  }
+  .auth-footer {
+    display: block;
+    text-align: center;
+  }
+}
