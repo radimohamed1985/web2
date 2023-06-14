@@ -265,8 +265,10 @@
                                  {{-- <input type="hidden" name='email' value="{{ App\Models\User::where('id',auth()->id()+1)->get()->first()->email}}">
                             <input type="hidden" name='password' value="{{App\Models\User::where('id',auth()->id()+1)->get()->first()->password}}">
                             --}}
-                            <input type="submit" class="btn btn-primary mybtn mx-3 h6 mb-0 line-height-1" 
-                            style="padding: 10px 20px;" value=" Switch TO Demo Account">
+                            {{-- <input type="submit" class="btn btn-primary mybtn mx-3 h6 mb-0 line-height-1" 
+                            style="padding: 10px 20px;" value=" Switch TO Demo Account"> --}}
+                            <div data-v-1b596b1b="" class="d-flex align-content-center align-self-center text-center switch"><input data-v-1b596b1b="" type="checkbox" id="toggle-loss" name="demo" onchange="this.form.submit()"> <label data-v-1b596b1b="" for="toggle-loss" class="ml-2" style="width: 50px; height: 25px;">Demo</label></div>    
+
                        
                     
                         </form>
@@ -276,9 +278,10 @@
                                  {{-- <input type="hidden" name='email' value="{{ App\Models\User::where('id',auth()->id()+1)->get()->first()->email}}">
                             <input type="hidden" name='password' value="{{App\Models\User::where('id',auth()->id()+1)->get()->first()->password}}">
                             --}}
-                            <input type="submit" class="btn btn-primary mybtn mx-3 h6 mb-0 line-height-1" 
-                            style="padding: 10px 20px;" value=" Switch TO Live Account">
-                       
+                            {{-- <input type="submit" class="btn btn-primary mybtn mx-3 h6 mb-0 line-height-1" 
+                            style="padding: 10px 20px;" value=" Switch TO Live Account"> --}}
+                            <div data-v-1b596b1b="" class="d-flex align-content-center align-self-center text-center switch"><input data-v-1b596b1b="" type="checkbox" id="toggle-loss" name="demo" onchange="this.form.submit()"> <label data-v-1b596b1b="" for="toggle-loss" class="ml-2" style="width: 50px; height: 25px;">Live</label></div>    
+
                     
                         </form>
                         {{-- <a href="" class="btn btn-primary mybtn mx-3 h6 mb-0 line-height-1" 
@@ -299,6 +302,7 @@ let form2 = document.getElementById('form2')
 if(firstname.innerHTML.includes('_demo')){
     form1.classList.add('hidden')
     form2.classList.remove('hidden')
+    form1.action ="{{'http://127.0.0.1:8000/testing2'}}"
 }
 
 </script>

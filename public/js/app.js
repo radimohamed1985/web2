@@ -4909,6 +4909,7 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   name: "Profile",
   props: ['user', 'transactions', 'accounts', 'trades', 'messages'],
@@ -5002,7 +5003,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n*[data-v-70f87dfa] {\r\n  box-sizing: border-box;\n}\n.tab .tablinks[data-v-70f87dfa] {\r\n  border-bottom: 1px solid #80808038;\n}\n.deposit .tab[data-v-70f87dfa] {\r\n  border-right: 1px solid #80808038;\r\n  min-height: 650px;\n}\n.active[data-v-70f87dfa] {\r\n  border-color: transparent !important;\r\n  background-color: rgba(92, 91, 91, 0.425) !important;\r\n  border-left: 3px solid rgb(34, 177, 34) !important;\r\n  color: white !important;\r\n  border-radius: 0px;\n}\r\n\r\n/* Style the tab */\n.tab[data-v-70f87dfa] {\r\n  float: left;\r\n  /* border: 1px solid #ccc; */\r\n  background-color: transparent;\r\n  width: 30%;\r\n  height: 300px;\n}\n.btn-outline-light[data-v-70f87dfa] {\r\n  border-color: transparent;\n}\r\n\r\n/* Style the buttons inside the tab */\n.tab button[data-v-70f87dfa] {\r\n  display: block;\r\n  background-color: inherit;\r\n  color: lightgray;\r\n  padding: 22px 16px;\r\n  width: 100%;\r\n  border: none;\r\n  outline: none;\r\n  text-align: left;\r\n  cursor: pointer;\r\n  transition: 0.3s;\r\n  font-size: 17px;\n}\r\n\r\n/* Change background color of buttons on hover */\n.tab button[data-v-70f87dfa]:hover {\r\n  border-color: transparent !important;\r\n  background-color: rgba(92, 91, 91, 0.425) !important;\r\n  border-left: 3px solid rgb(34, 177, 34) !important;\r\n  color: white !important;\r\n  border-radius: 0px;\n}\r\n\r\n/* Style the tab content */\n.tabcontent[data-v-70f87dfa] {\r\n  float: left;\r\n  padding: 10px 6px 30px 30px;\r\n  /* border: 1px solid #ccc; */\r\n  width: 70%;\r\n  border-left: none;\r\n  height: 100%;\n}\r\n", ""]);
+exports.push([module.i, "\n*[data-v-70f87dfa] {\n  box-sizing: border-box;\n}\n.tab .tablinks[data-v-70f87dfa] {\n  border-bottom: 1px solid #80808038;\n}\n.deposit .tab[data-v-70f87dfa] {\n  border-right: 1px solid #80808038;\n  min-height: 650px;\n}\n.active[data-v-70f87dfa] {\n  border-color: transparent !important;\n  background-color: rgba(92, 91, 91, 0.425) !important;\n  border-left: 3px solid rgb(34, 177, 34) !important;\n  color: white !important;\n  border-radius: 0px;\n}\n\n/* Style the tab */\n.tab[data-v-70f87dfa] {\n  float: left;\n  /* border: 1px solid #ccc; */\n  background-color: transparent;\n  width: 30%;\n  height: 300px;\n}\n.btn-outline-light[data-v-70f87dfa] {\n  border-color: transparent;\n}\n\n/* Style the buttons inside the tab */\n.tab button[data-v-70f87dfa] {\n  display: block;\n  background-color: inherit;\n  color: lightgray;\n  padding: 22px 16px;\n  width: 100%;\n  border: none;\n  outline: none;\n  text-align: left;\n  cursor: pointer;\n  transition: 0.3s;\n  font-size: 17px;\n}\n\n/* Change background color of buttons on hover */\n.tab button[data-v-70f87dfa]:hover {\n  border-color: transparent !important;\n  background-color: rgba(92, 91, 91, 0.425) !important;\n  border-left: 3px solid rgb(34, 177, 34) !important;\n  color: white !important;\n  border-radius: 0px;\n}\n\n/* Style the tab content */\n.tabcontent[data-v-70f87dfa] {\n  float: left;\n  padding: 10px 6px 30px 30px;\n  /* border: 1px solid #ccc; */\n  width: 70%;\n  border-left: none;\n  height: 100%;\n}\n", ""]);
 
 // exports
 
@@ -5021,7 +5022,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n@media screen and (min-width: 981px) {\nhtml[data-v-5e12b136] {\r\n    font-size: 62.5%;\n}\n}\n@media screen and (min-width: 481px) and (max-width: 980px) {\nhtml[data-v-5e12b136] {\r\n    font-size: 9px;\n}\n}\n@media screen and (max-width: 480px) {\nhtml[data-v-5e12b136] {\r\n    font-size: 8px;\n}\n}\nbody[data-v-5e12b136] {\r\n  background: radial-gradient(rgb(253, 253, 253), rgb(248, 248, 248));\r\n  margin: 0;\n}\n.bill-box .form-control[data-v-5e12b136] {\r\n  height: calc(3em + 0.75rem + 2px);\n}\n.content-box[data-v-5e12b136] {\r\n  padding-left: 3%;\r\n  padding-right: 1rem;\n}\n.content-box .form-control[data-v-5e12b136] {\r\n  padding: 1.85rem 0.95rem !important;\n}\n.content-box .col-2[data-v-5e12b136] {\r\n  padding-right: 3px !important;\r\n  padding-left: 3px !important;\n}\n.content-box .col-2 .btn[data-v-5e12b136] {\r\n  padding: 18px 5px;\r\n  width: 100%;\n}\n.content-box .col[data-v-5e12b136] {\r\n  padding-right: 3px !important;\r\n  padding-left: 15px !important;\n}\n.demo[data-v-5e12b136] {\r\n  line-height: 1;\r\n  min-height: 20px;\r\n  box-sizing: border-box;\r\n  position: relative;\r\n\r\n  padding-left: 1rem;\r\n  padding-right: 1rem;\r\n\r\n  display: flex;\r\n  justify-content: center;\r\n  align-items: center;\r\n  margin-bottom: 30px;\n}\n.footer[data-v-5e12b136] {\r\n  padding: 2rem;\r\n  display: flex;\r\n  flex-wrap: wrap;\r\n  justify-content: center;\n}\na[data-v-5e12b136] {\r\n  color: #000;\n}\na[data-v-5e12b136]:focus {\r\n  outline: 2px solid #fdde60;\n}\na[data-v-5e12b136]:hover {\r\n  text-decoration: none;\n}\n.melnik909[data-v-5e12b136] {\r\n  margin-left: 2rem;\n}\n.payment-card[data-v-5e12b136] {\r\n  width: 60rem;\n}\n.payment-card__footer[data-v-5e12b136] {\r\n  text-align: center;\r\n  margin-top: 2rem;\n}\n.bank-card[data-v-5e12b136] {\r\n  position: relative;\n}\n@media screen and (min-width: 481px) {\n.bank-card[data-v-5e12b136] {\r\n    height: 14rem;\n}\n.bank-card__side[data-v-5e12b136] {\r\n    border-radius: 10px;\r\n    /* border: 1px solid transparent; */\r\n    position: absolute;\r\n    width: 85%;\n}\n.bank-card__side_front[data-v-5e12b136] {\r\n    background-color: #7383ad;\r\n    padding: 35px 26px;\r\n    /* padding: 8% 5%; */\r\n    box-shadow: 0 0 10px #050505;\r\n    border-color: #a29e97;\r\n\r\n    top: 0;\r\n    left: 0;\r\n    z-index: 3;\n}\n.bank-card__side_back[data-v-5e12b136] {\r\n    background-color: #7383ad;\r\n    padding: 28% 5% 6%;\r\n    box-shadow: 0 0 5px #050505;\r\n\r\n    text-align: right;\r\n    border-color: #dad9d6;\r\n\r\n    top: 1px;\r\n    right: -40px;\n}\n.bank-card__side_back[data-v-5e12b136]:before {\r\n    content: \"\";\r\n    width: 100%;\r\n    height: 25%;\r\n    background-color: #4a4a4a;\r\n\r\n    position: absolute;\r\n    top: 14%;\r\n    right: 0;\n}\n}\n@media screen and (max-width: 480px) {\n.bank-card__side[data-v-5e12b136] {\r\n    border: 1px solid #a29e97;\r\n    background-color: #7383ad;\r\n    padding-left: 5%;\r\n    padding-right: 5%;\n}\n.bank-card__side_front[data-v-5e12b136] {\r\n    border-radius: 10px 10px 0 0;\r\n    border-bottom: none;\r\n    padding-top: 5%;\n}\n.bank-card__side_back[data-v-5e12b136] {\r\n    border-radius: 0 0 10px 10px;\r\n    border-top: none;\r\n    padding-bottom: 5%;\n}\n}\n.bank-card__inner[data-v-5e12b136] {\r\n  margin-bottom: 1%;\n}\n.bank-card__inner[data-v-5e12b136]:last-child {\r\n  margin-bottom: 0;\n}\n.bank-card__label[data-v-5e12b136] {\r\n  display: inline-block;\r\n  /* vertical-align: middle; */\n}\n.bank-card__label_holder[data-v-5e12b136],\r\n.bank-card__label_number[data-v-5e12b136] {\r\n  width: 100%;\n}\n@media screen and (min-width: 481px) {\n.bank-card__month[data-v-5e12b136],\r\n  .bank-card__year[data-v-5e12b136] {\r\n    width: 33%;\n}\n}\n@media screen and (max-width: 480px) {\n.bank-card__month[data-v-5e12b136],\r\n  .bank-card__year[data-v-5e12b136] {\r\n    width: 56%;\n}\n}\n@media screen and (min-width: 481px) {\n.bank-card__cvc[data-v-5e12b136] {\r\n    width: 25%;\n}\n}\n@media screen and (max-width: 480px) {\n.bank-card__cvc[data-v-5e12b136] {\r\n    width: 100%;\r\n    margin-top: 4%;\n}\n}\n.bank-card__hint[data-v-5e12b136] {\r\n  position: absolute;\r\n  left: -9999px;\n}\n.bank-card__caption[data-v-5e12b136] {\r\n  text-transform: uppercase;\r\n  font-size: 15px;\r\n  margin-left: 1%;\r\n  color: #fff;\n}\n.bank-card__field[data-v-5e12b136] {\r\n  box-sizing: border-box;\r\n  border-radius: 5px;\r\n  border: 1px solid #d0d0ce;\r\n  width: 100%;\r\n\r\n  padding: 15px;\r\n  font-family: inherit;\r\n  font-size: 100%;\n}\n.bank-card__field[data-v-5e12b136]:focus {\r\n  outline: none;\r\n  border-color: #fdde60;\n}\n.bank-card__field[data-v-5e12b136]:invalid:focus:not(:-moz-placeholder-shown) {\r\n  outline: none;\r\n  border-color: #df0e0e;\n}\n.bank-card__field[data-v-5e12b136]:invalid:focus:not(:-ms-input-placeholder) {\r\n  outline: none;\r\n  border-color: #df0e0e;\n}\n.bank-card__field[data-v-5e12b136]:invalid:focus:not(:placeholder-shown) {\r\n  outline: none;\r\n  border-color: #df0e0e;\n}\n.bank-card__separator[data-v-5e12b136] {\r\n  font-size: 3.2rem;\r\n  color: #c4c4c3;\r\n\r\n  margin-left: 3%;\r\n  margin-right: 3%;\r\n  display: inline-block;\r\n  vertical-align: middle;\n}\n@media screen and (max-width: 480px) {\n.bank-card__separator[data-v-5e12b136] {\r\n    display: none;\n}\n}\n@media screen and (min-width: 481px) {\n.bank-card__footer[data-v-5e12b136] {\r\n    background-image: url(\"https://stas-melnikov.ru/demo-icons/mastercard-colored.svg\"),\r\n      url(\"https://stas-melnikov.ru/demo-icons/visa-colored.svg\");\r\n    background-repeat: no-repeat;\r\n    background-position: 78% 50%, 100% 50%;\n}\n}\n@media screen and (max-width: 480px) {\n.bank-card__footer[data-v-5e12b136] {\r\n    display: flex;\r\n    justify-content: space-between;\n}\n}\ninput[data-v-5e12b136]::-webkit-input-placeholder {\r\n  color: #a5abb1;\n}\r\n", ""]);
+exports.push([module.i, "\n@media screen and (min-width: 981px) {\nhtml[data-v-5e12b136] {\n    font-size: 62.5%;\n}\n}\n@media screen and (min-width: 481px) and (max-width: 980px) {\nhtml[data-v-5e12b136] {\n    font-size: 9px;\n}\n}\n@media screen and (max-width: 480px) {\nhtml[data-v-5e12b136] {\n    font-size: 8px;\n}\n}\nbody[data-v-5e12b136] {\n  background: radial-gradient(rgb(253, 253, 253), rgb(248, 248, 248));\n  margin: 0;\n}\n.bill-box .form-control[data-v-5e12b136] {\n  height: calc(3em + 0.75rem + 2px);\n}\n.content-box[data-v-5e12b136] {\n  padding-left: 3%;\n  padding-right: 1rem;\n}\n.content-box .form-control[data-v-5e12b136] {\n  padding: 1.85rem 0.95rem !important;\n}\n.content-box .col-2[data-v-5e12b136] {\n  padding-right: 3px !important;\n  padding-left: 3px !important;\n}\n.content-box .col-2 .btn[data-v-5e12b136] {\n  padding: 18px 5px;\n  width: 100%;\n}\n.content-box .col[data-v-5e12b136] {\n  padding-right: 3px !important;\n  padding-left: 15px !important;\n}\n.demo[data-v-5e12b136] {\n  line-height: 1;\n  min-height: 20px;\n  box-sizing: border-box;\n  position: relative;\n\n  padding-left: 1rem;\n  padding-right: 1rem;\n\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  margin-bottom: 30px;\n}\n.footer[data-v-5e12b136] {\n  padding: 2rem;\n  display: flex;\n  flex-wrap: wrap;\n  justify-content: center;\n}\na[data-v-5e12b136] {\n  color: #000;\n}\na[data-v-5e12b136]:focus {\n  outline: 2px solid #fdde60;\n}\na[data-v-5e12b136]:hover {\n  text-decoration: none;\n}\n.melnik909[data-v-5e12b136] {\n  margin-left: 2rem;\n}\n.payment-card[data-v-5e12b136] {\n  width: 60rem;\n}\n.payment-card__footer[data-v-5e12b136] {\n  text-align: center;\n  margin-top: 2rem;\n}\n.bank-card[data-v-5e12b136] {\n  position: relative;\n}\n@media screen and (min-width: 481px) {\n.bank-card[data-v-5e12b136] {\n    height: 14rem;\n}\n.bank-card__side[data-v-5e12b136] {\n    border-radius: 10px;\n    /* border: 1px solid transparent; */\n    position: absolute;\n    width: 85%;\n}\n.bank-card__side_front[data-v-5e12b136] {\n    background-color: #7383ad;\n    padding: 35px 26px;\n    /* padding: 8% 5%; */\n    box-shadow: 0 0 10px #050505;\n    border-color: #a29e97;\n\n    top: 0;\n    left: 0;\n    z-index: 3;\n}\n.bank-card__side_back[data-v-5e12b136] {\n    background-color: #7383ad;\n    padding: 28% 5% 6%;\n    box-shadow: 0 0 5px #050505;\n\n    text-align: right;\n    border-color: #dad9d6;\n\n    top: 1px;\n    right: -40px;\n}\n.bank-card__side_back[data-v-5e12b136]:before {\n    content: \"\";\n    width: 100%;\n    height: 25%;\n    background-color: #4a4a4a;\n\n    position: absolute;\n    top: 14%;\n    right: 0;\n}\n}\n@media screen and (max-width: 480px) {\n.bank-card__side[data-v-5e12b136] {\n    border: 1px solid #a29e97;\n    background-color: #7383ad;\n    padding-left: 5%;\n    padding-right: 5%;\n}\n.bank-card__side_front[data-v-5e12b136] {\n    border-radius: 10px 10px 0 0;\n    border-bottom: none;\n    padding-top: 5%;\n}\n.bank-card__side_back[data-v-5e12b136] {\n    border-radius: 0 0 10px 10px;\n    border-top: none;\n    padding-bottom: 5%;\n}\n}\n.bank-card__inner[data-v-5e12b136] {\n  margin-bottom: 1%;\n}\n.bank-card__inner[data-v-5e12b136]:last-child {\n  margin-bottom: 0;\n}\n.bank-card__label[data-v-5e12b136] {\n  display: inline-block;\n  /* vertical-align: middle; */\n}\n.bank-card__label_holder[data-v-5e12b136],\n.bank-card__label_number[data-v-5e12b136] {\n  width: 100%;\n}\n@media screen and (min-width: 481px) {\n.bank-card__month[data-v-5e12b136],\n  .bank-card__year[data-v-5e12b136] {\n    width: 33%;\n}\n}\n@media screen and (max-width: 480px) {\n.bank-card__month[data-v-5e12b136],\n  .bank-card__year[data-v-5e12b136] {\n    width: 56%;\n}\n}\n@media screen and (min-width: 481px) {\n.bank-card__cvc[data-v-5e12b136] {\n    width: 25%;\n}\n}\n@media screen and (max-width: 480px) {\n.bank-card__cvc[data-v-5e12b136] {\n    width: 100%;\n    margin-top: 4%;\n}\n}\n.bank-card__hint[data-v-5e12b136] {\n  position: absolute;\n  left: -9999px;\n}\n.bank-card__caption[data-v-5e12b136] {\n  text-transform: uppercase;\n  font-size: 15px;\n  margin-left: 1%;\n  color: #fff;\n}\n.bank-card__field[data-v-5e12b136] {\n  box-sizing: border-box;\n  border-radius: 5px;\n  border: 1px solid #d0d0ce;\n  width: 100%;\n\n  padding: 15px;\n  font-family: inherit;\n  font-size: 100%;\n}\n.bank-card__field[data-v-5e12b136]:focus {\n  outline: none;\n  border-color: #fdde60;\n}\n.bank-card__field[data-v-5e12b136]:invalid:focus:not(:-moz-placeholder-shown) {\n  outline: none;\n  border-color: #df0e0e;\n}\n.bank-card__field[data-v-5e12b136]:invalid:focus:not(:-ms-input-placeholder) {\n  outline: none;\n  border-color: #df0e0e;\n}\n.bank-card__field[data-v-5e12b136]:invalid:focus:not(:placeholder-shown) {\n  outline: none;\n  border-color: #df0e0e;\n}\n.bank-card__separator[data-v-5e12b136] {\n  font-size: 3.2rem;\n  color: #c4c4c3;\n\n  margin-left: 3%;\n  margin-right: 3%;\n  display: inline-block;\n  vertical-align: middle;\n}\n@media screen and (max-width: 480px) {\n.bank-card__separator[data-v-5e12b136] {\n    display: none;\n}\n}\n@media screen and (min-width: 481px) {\n.bank-card__footer[data-v-5e12b136] {\n    background-image: url(\"https://stas-melnikov.ru/demo-icons/mastercard-colored.svg\"),\n      url(\"https://stas-melnikov.ru/demo-icons/visa-colored.svg\");\n    background-repeat: no-repeat;\n    background-position: 78% 50%, 100% 50%;\n}\n}\n@media screen and (max-width: 480px) {\n.bank-card__footer[data-v-5e12b136] {\n    display: flex;\n    justify-content: space-between;\n}\n}\ninput[data-v-5e12b136]::-webkit-input-placeholder {\n  color: #a5abb1;\n}\n", ""]);
 
 // exports
 
@@ -23376,7 +23377,7 @@ exports.clearImmediate = (typeof self !== "undefined" && self.clearImmediate) ||
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
-var render = function() {
+var render = function () {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
@@ -23388,7 +23389,7 @@ var render = function() {
         [_vm._v("Invest in " + _vm._s(_vm.active_plan.name) + " plan")]
       ),
       _vm._v(" "),
-      _vm._m(0)
+      _vm._m(0),
     ]),
     _vm._v(" "),
     _c("div", { staticClass: "modal-body" }, [
@@ -23396,11 +23397,11 @@ var render = function() {
         "form",
         {
           on: {
-            submit: function($event) {
+            submit: function ($event) {
               $event.preventDefault()
               return _vm.submit($event)
-            }
-          }
+            },
+          },
         },
         [
           _c("div", { staticClass: "row mt-2 mb-2" }, [
@@ -23413,17 +23414,17 @@ var render = function() {
                         "Account Balance : " +
                           _vm._s(_vm.formatPrice(_vm.user.balance)) +
                           " USD "
-                      )
+                      ),
                     ]),
                     _vm._v(" "),
                     !_vm.balanceGt
                       ? _c("p", { staticClass: "text-danger" }, [
-                          _vm._v("Insufficient balance, pls fund account")
+                          _vm._v("Insufficient balance, pls fund account"),
                         ])
-                      : _vm._e()
-                  ])
-                ])
-              ])
+                      : _vm._e(),
+                  ]),
+                ]),
+              ]),
             ]),
             _vm._v(" "),
             _c("div", { staticClass: "col-md-12 mt-2" }, [
@@ -23437,32 +23438,32 @@ var render = function() {
                       name: "model",
                       rawName: "v-model",
                       value: _vm.active_plan,
-                      expression: "active_plan"
-                    }
+                      expression: "active_plan",
+                    },
                   ],
                   staticClass: "form-control",
                   on: {
-                    change: function($event) {
+                    change: function ($event) {
                       var $$selectedVal = Array.prototype.filter
-                        .call($event.target.options, function(o) {
+                        .call($event.target.options, function (o) {
                           return o.selected
                         })
-                        .map(function(o) {
+                        .map(function (o) {
                           var val = "_value" in o ? o._value : o.value
                           return val
                         })
                       _vm.active_plan = $event.target.multiple
                         ? $$selectedVal
                         : $$selectedVal[0]
-                    }
-                  }
+                    },
+                  },
                 },
                 [
                   _c("option", { attrs: { disabled: "" } }, [
-                    _vm._v("Change Plan ...")
+                    _vm._v("Change Plan ..."),
                   ]),
                   _vm._v(" "),
-                  _vm._l(_vm.plans, function(item) {
+                  _vm._l(_vm.plans, function (item) {
                     return _c("option", { domProps: { value: item } }, [
                       _vm._v(
                         _vm._s(item.name) +
@@ -23476,12 +23477,12 @@ var render = function() {
                           _vm._s(_vm.formatPrice(item.price * item.min_unit)) +
                           " to $" +
                           _vm._s(_vm.formatPrice(item.max_unit * item.price))
-                      )
+                      ),
                     ])
-                  })
+                  }),
                 ],
                 2
-              )
+              ),
             ]),
             _vm._v(" "),
             _vm.active_plan.description
@@ -23491,10 +23492,10 @@ var render = function() {
                     { staticClass: "col-md-6 border border-light rounded" },
                     [
                       _c("p", { staticClass: "card-text" }, [
-                        _vm._v(_vm._s(_vm.active_plan.description))
-                      ])
+                        _vm._v(_vm._s(_vm.active_plan.description)),
+                      ]),
                     ]
-                  )
+                  ),
                 ])
               : _vm._e(),
             _vm._v(" "),
@@ -23502,12 +23503,12 @@ var render = function() {
               _c("div", { staticClass: "card-body" }, [
                 _c("section", { staticClass: "card-title" }, [
                   _c("h6", { staticClass: "card-subtitle mb-2 text-light" }, [
-                    _vm._v("Choose Units")
+                    _vm._v("Choose Units"),
                   ]),
                   _vm._v(" "),
                   _c("div", { staticClass: "input-group mb-3" }, [
                     _c("span", { staticClass: "input-group-text" }, [
-                      _vm._v(_vm._s(_vm.active_plan.min_unit))
+                      _vm._v(_vm._s(_vm.active_plan.min_unit)),
                     ]),
                     _vm._v(" "),
                     _c("input", {
@@ -23516,40 +23517,40 @@ var render = function() {
                           name: "model",
                           rawName: "v-model",
                           value: _vm.unit,
-                          expression: "unit"
-                        }
+                          expression: "unit",
+                        },
                       ],
                       staticClass: "form-range form-control",
                       attrs: {
                         type: "range",
                         min: _vm.active_plan.min_unit,
                         max: _vm.active_plan.max_unit,
-                        step: "1"
+                        step: "1",
                       },
                       domProps: { value: _vm.unit },
                       on: {
-                        __r: function($event) {
+                        __r: function ($event) {
                           _vm.unit = $event.target.value
-                        }
-                      }
+                        },
+                      },
                     }),
                     _vm._v(" "),
                     _c("span", { staticClass: "input-group-text" }, [
-                      _vm._v(_vm._s(_vm.active_plan.max_unit))
-                    ])
-                  ])
+                      _vm._v(_vm._s(_vm.active_plan.max_unit)),
+                    ]),
+                  ]),
                 ]),
                 _vm._v(" "),
                 _c("div", { staticClass: "card-text" }, [
                   _c("div", { staticClass: "row" }, [
                     _c("div", { staticClass: "col-md-4" }, [
-                      _vm._v("Units: " + _vm._s(_vm.unit))
+                      _vm._v("Units: " + _vm._s(_vm.unit)),
                     ]),
                     _vm._v(" "),
                     _c("div", { staticClass: "col-md-4" }, [
                       _vm._v(
                         "Amount: $" + _vm._s(_vm.active_plan.price * _vm.unit)
-                      )
+                      ),
                     ]),
                     _vm._v(" "),
                     _c("div", { staticClass: "col-md-4 text-right" }, [
@@ -23564,18 +23565,18 @@ var render = function() {
                           " ( " +
                           _vm._s(_vm.active_plan.percent_profit) +
                           "% )"
-                      )
-                    ])
-                  ])
-                ])
+                      ),
+                    ]),
+                  ]),
+                ]),
               ]),
               _vm._v(" "),
               _c("div", { staticClass: "col--12 mt-2" }, [
                 _c("input", {
                   staticClass: "form-control",
                   attrs: { disabled: "" },
-                  domProps: { value: _vm.active_plan.price * _vm.unit }
-                })
+                  domProps: { value: _vm.active_plan.price * _vm.unit },
+                }),
               ]),
               _vm._v(" "),
               _c("div", { staticClass: "col-12 mt-2" }, [
@@ -23583,8 +23584,8 @@ var render = function() {
                   _vm._v(
                     "Amount to invested : $" +
                       _vm._s(_vm.formatPrice(_vm.active_plan.price * _vm.unit))
-                  )
-                ])
+                  ),
+                ]),
               ]),
               _vm._v(" "),
               _c("div", { staticClass: "col-12" }, [
@@ -23602,8 +23603,8 @@ var render = function() {
                       " ( " +
                       _vm._s(_vm.active_plan.percent_profit) +
                       "% )"
-                  )
-                ])
+                  ),
+                ]),
               ]),
               _vm._v(" "),
               _c("div", { staticClass: "col-12" }, [
@@ -23613,8 +23614,8 @@ var render = function() {
                       _vm._s(_vm.active_plan.period) +
                       " " +
                       _vm._s(_vm.active_plan.period_type)
-                  )
-                ])
+                  ),
+                ]),
               ]),
               _vm._v(" "),
               _c(
@@ -23622,21 +23623,21 @@ var render = function() {
                 {
                   staticClass: "btn btn-primary nav-pills mt-2",
                   staticStyle: { "border-radius": "40px" },
-                  attrs: { disabled: !_vm.canProceed, type: "submit" }
+                  attrs: { disabled: !_vm.canProceed, type: "submit" },
                 },
                 [_vm._v("Activate Subscription")]
-              )
-            ])
-          ])
+              ),
+            ]),
+          ]),
         ]
       ),
       _vm._v(" "),
-      _c("div", { staticClass: "row" })
-    ])
+      _c("div", { staticClass: "row" }),
+    ]),
   ])
 }
 var staticRenderFns = [
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
@@ -23647,12 +23648,12 @@ var staticRenderFns = [
         attrs: {
           type: "button",
           "data-dismiss": "modal",
-          "aria-label": "Close"
-        }
+          "aria-label": "Close",
+        },
       },
       [_c("span", { attrs: { "aria-hidden": "true" } }, [_vm._v("×")])]
     )
-  }
+  },
 ]
 render._withStripped = true
 
@@ -23671,7 +23672,7 @@ render._withStripped = true
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
-var render = function() {
+var render = function () {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
@@ -23685,17 +23686,17 @@ var render = function() {
             "form",
             {
               on: {
-                submit: function($event) {
+                submit: function ($event) {
                   $event.preventDefault()
                   return _vm.submit($event)
-                }
-              }
+                },
+              },
             },
             [
               _c("div", { staticClass: "m-4" }, [
                 _c("div", { staticClass: "form-group col-md-12" }, [
                   _c("label", { attrs: { for: "type" } }, [
-                    _vm._v("Account Type")
+                    _vm._v("Account Type"),
                   ]),
                   _vm._v(" "),
                   _c(
@@ -23706,18 +23707,18 @@ var render = function() {
                           name: "model",
                           rawName: "v-model",
                           value: _vm.data.type,
-                          expression: "data.type"
-                        }
+                          expression: "data.type",
+                        },
                       ],
                       staticClass: "form-control",
                       attrs: { id: "type" },
                       on: {
-                        change: function($event) {
+                        change: function ($event) {
                           var $$selectedVal = Array.prototype.filter
-                            .call($event.target.options, function(o) {
+                            .call($event.target.options, function (o) {
                               return o.selected
                             })
-                            .map(function(o) {
+                            .map(function (o) {
                               var val = "_value" in o ? o._value : o.value
                               return val
                             })
@@ -23728,29 +23729,29 @@ var render = function() {
                               ? $$selectedVal
                               : $$selectedVal[0]
                           )
-                        }
-                      }
+                        },
+                      },
                     },
                     [
                       _vm.wire > 0
                         ? _c("option", { attrs: { value: "wire" } }, [
-                            _vm._v("WIRE TRANSFER")
+                            _vm._v("WIRE TRANSFER"),
                           ])
                         : _vm._e(),
                       _vm._v(" "),
                       _vm.crypto > 0
                         ? _c("option", { attrs: { value: "crypto" } }, [
-                            _vm._v("CRYPTO WALLET")
+                            _vm._v("CRYPTO WALLET"),
                           ])
-                        : _vm._e()
+                        : _vm._e(),
                     ]
-                  )
+                  ),
                 ]),
                 _vm._v(" "),
                 _vm.data.type === "crypto"
                   ? _c("div", { staticClass: "form-group col-md-12" }, [
                       _c("label", { attrs: { for: "wallet" } }, [
-                        _vm._v("Wallet Name")
+                        _vm._v("Wallet Name"),
                       ]),
                       _vm._v(" "),
                       _c(
@@ -23761,18 +23762,18 @@ var render = function() {
                               name: "model",
                               rawName: "v-model",
                               value: _vm.data.wallet,
-                              expression: "data.wallet"
-                            }
+                              expression: "data.wallet",
+                            },
                           ],
                           staticClass: "form-control",
                           attrs: { id: "wallet" },
                           on: {
-                            change: function($event) {
+                            change: function ($event) {
                               var $$selectedVal = Array.prototype.filter
-                                .call($event.target.options, function(o) {
+                                .call($event.target.options, function (o) {
                                   return o.selected
                                 })
-                                .map(function(o) {
+                                .map(function (o) {
                                   var val = "_value" in o ? o._value : o.value
                                   return val
                                 })
@@ -23783,19 +23784,19 @@ var render = function() {
                                   ? $$selectedVal
                                   : $$selectedVal[0]
                               )
-                            }
-                          }
+                            },
+                          },
                         },
                         [
                           _c("option", { attrs: { value: "bitcoin" } }, [
-                            _vm._v("BTC")
+                            _vm._v("BTC"),
                           ]),
                           _vm._v(" "),
                           _c("option", { attrs: { value: "usdt" } }, [
-                            _vm._v("USDT")
-                          ])
+                            _vm._v("USDT"),
+                          ]),
                         ]
-                      )
+                      ),
                     ])
                   : _vm._e(),
                 _vm._v(" "),
@@ -23804,7 +23805,7 @@ var render = function() {
                       _vm.wires.length > 0
                         ? _c("div", [
                             _c("label", { attrs: { for: "wire" } }, [
-                              _vm._v("Select Wire Transfer Account ")
+                              _vm._v("Select Wire Transfer Account "),
                             ]),
                             _vm._v(" "),
                             _c(
@@ -23815,18 +23816,21 @@ var render = function() {
                                     name: "model",
                                     rawName: "v-model",
                                     value: _vm.data.wire_id,
-                                    expression: "data.wire_id"
-                                  }
+                                    expression: "data.wire_id",
+                                  },
                                 ],
                                 staticClass: "form-control",
                                 attrs: { id: "wire" },
                                 on: {
-                                  change: function($event) {
+                                  change: function ($event) {
                                     var $$selectedVal = Array.prototype.filter
-                                      .call($event.target.options, function(o) {
-                                        return o.selected
-                                      })
-                                      .map(function(o) {
+                                      .call(
+                                        $event.target.options,
+                                        function (o) {
+                                          return o.selected
+                                        }
+                                      )
+                                      .map(function (o) {
                                         var val =
                                           "_value" in o ? o._value : o.value
                                         return val
@@ -23838,10 +23842,10 @@ var render = function() {
                                         ? $$selectedVal
                                         : $$selectedVal[0]
                                     )
-                                  }
-                                }
+                                  },
+                                },
                               },
-                              _vm._l(_vm.wires, function(item) {
+                              _vm._l(_vm.wires, function (item) {
                                 return _c(
                                   "option",
                                   { domProps: { value: item.id } },
@@ -23851,21 +23855,21 @@ var render = function() {
                                         " [" +
                                         _vm._s(item.account_number) +
                                         "]"
-                                    )
+                                    ),
                                   ]
                                 )
                               }),
                               0
-                            )
+                            ),
                           ])
-                        : _c("div", [_vm._m(1)])
+                        : _c("div", [_vm._m(1)]),
                     ])
                   : _vm._e(),
                 _vm._v(" "),
                 _vm.data.type === "crypto"
                   ? _c("div", { staticClass: "form-group col-md-12" }, [
                       _c("label", { attrs: { for: "address" } }, [
-                        _vm._v("Wallet Address *")
+                        _vm._v("Wallet Address *"),
                       ]),
                       _vm._v(" "),
                       _c("input", {
@@ -23874,21 +23878,21 @@ var render = function() {
                             name: "model",
                             rawName: "v-model",
                             value: _vm.data.address,
-                            expression: "data.address"
-                          }
+                            expression: "data.address",
+                          },
                         ],
                         staticClass: "form-control",
                         attrs: { required: "", id: "address", type: "text" },
                         domProps: { value: _vm.data.address },
                         on: {
-                          input: function($event) {
+                          input: function ($event) {
                             if ($event.target.composing) {
                               return
                             }
                             _vm.$set(_vm.data, "address", $event.target.value)
-                          }
-                        }
-                      })
+                          },
+                        },
+                      }),
                     ])
                   : _vm._e(),
                 _vm._v(" "),
@@ -23898,30 +23902,30 @@ var render = function() {
                         "button",
                         {
                           staticClass: "btn btn-primary",
-                          attrs: { disabled: _vm.loading, type: "submit" }
+                          attrs: { disabled: _vm.loading, type: "submit" },
                         },
                         [_vm._v("Add Account")]
-                      )
+                      ),
                     ])
-                  : _vm._e()
-              ])
+                  : _vm._e(),
+              ]),
             ]
-          )
-        ])
-      ])
-    ])
+          ),
+        ]),
+      ]),
+    ]),
   ])
 }
 var staticRenderFns = [
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: " text-center" }, [
-      _c("h6", [_vm._v("Add accounts for withdrawal")])
+      _c("h6", [_vm._v("Add accounts for withdrawal")]),
     ])
   },
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
@@ -23932,16 +23936,16 @@ var staticRenderFns = [
         attrs: {
           type: "button",
           "data-toggle": "modal",
-          "data-target": "#addWireAccount"
-        }
+          "data-target": "#addWireAccount",
+        },
       },
       [
         _c("span", { staticClass: "text-white font-weight-bold h6" }, [
-          _vm._v("+ Add Wire Account")
-        ])
+          _vm._v("+ Add Wire Account"),
+        ]),
       ]
     )
-  }
+  },
 ]
 render._withStripped = true
 
@@ -23960,7 +23964,7 @@ render._withStripped = true
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
-var render = function() {
+var render = function () {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
@@ -23974,11 +23978,11 @@ var render = function() {
             "form",
             {
               on: {
-                submit: function($event) {
+                submit: function ($event) {
                   $event.preventDefault()
                   return _vm.submit($event)
-                }
-              }
+                },
+              },
             },
             [
               _c("div", { staticClass: "m-4 row" }, [
@@ -23991,21 +23995,21 @@ var render = function() {
                         name: "model",
                         rawName: "v-model",
                         value: _vm.data.account_name,
-                        expression: "data.account_name"
-                      }
+                        expression: "data.account_name",
+                      },
                     ],
                     staticClass: "form-control",
                     attrs: { required: "", type: "text" },
                     domProps: { value: _vm.data.account_name },
                     on: {
-                      input: function($event) {
+                      input: function ($event) {
                         if ($event.target.composing) {
                           return
                         }
                         _vm.$set(_vm.data, "account_name", $event.target.value)
-                      }
-                    }
-                  })
+                      },
+                    },
+                  }),
                 ]),
                 _vm._v(" "),
                 _c("div", { staticClass: "form-group col-md-6" }, [
@@ -24017,14 +24021,14 @@ var render = function() {
                         name: "model",
                         rawName: "v-model",
                         value: _vm.data.account_number,
-                        expression: "data.account_number"
-                      }
+                        expression: "data.account_number",
+                      },
                     ],
                     staticClass: "form-control",
                     attrs: { required: "", type: "text" },
                     domProps: { value: _vm.data.account_number },
                     on: {
-                      input: function($event) {
+                      input: function ($event) {
                         if ($event.target.composing) {
                           return
                         }
@@ -24033,9 +24037,9 @@ var render = function() {
                           "account_number",
                           $event.target.value
                         )
-                      }
-                    }
-                  })
+                      },
+                    },
+                  }),
                 ]),
                 _vm._v(" "),
                 _c("div", { staticClass: "form-group col-md-6" }, [
@@ -24047,21 +24051,21 @@ var render = function() {
                         name: "model",
                         rawName: "v-model",
                         value: _vm.data.bank_country,
-                        expression: "data.bank_country"
-                      }
+                        expression: "data.bank_country",
+                      },
                     ],
                     staticClass: "form-control",
                     attrs: { required: "", type: "text" },
                     domProps: { value: _vm.data.bank_country },
                     on: {
-                      input: function($event) {
+                      input: function ($event) {
                         if ($event.target.composing) {
                           return
                         }
                         _vm.$set(_vm.data, "bank_country", $event.target.value)
-                      }
-                    }
-                  })
+                      },
+                    },
+                  }),
                 ]),
                 _vm._v(" "),
                 _c("div", { staticClass: "form-group col-md-6" }, [
@@ -24073,21 +24077,21 @@ var render = function() {
                         name: "model",
                         rawName: "v-model",
                         value: _vm.data.bank_name,
-                        expression: "data.bank_name"
-                      }
+                        expression: "data.bank_name",
+                      },
                     ],
                     staticClass: "form-control",
                     attrs: { required: "", type: "text" },
                     domProps: { value: _vm.data.bank_name },
                     on: {
-                      input: function($event) {
+                      input: function ($event) {
                         if ($event.target.composing) {
                           return
                         }
                         _vm.$set(_vm.data, "bank_name", $event.target.value)
-                      }
-                    }
-                  })
+                      },
+                    },
+                  }),
                 ]),
                 _vm._v(" "),
                 _c("div", { staticClass: "form-group col-md-6" }, [
@@ -24099,21 +24103,21 @@ var render = function() {
                         name: "model",
                         rawName: "v-model",
                         value: _vm.data.bank_currency,
-                        expression: "data.bank_currency"
-                      }
+                        expression: "data.bank_currency",
+                      },
                     ],
                     staticClass: "form-control",
                     attrs: { required: "", type: "text" },
                     domProps: { value: _vm.data.bank_currency },
                     on: {
-                      input: function($event) {
+                      input: function ($event) {
                         if ($event.target.composing) {
                           return
                         }
                         _vm.$set(_vm.data, "bank_currency", $event.target.value)
-                      }
-                    }
-                  })
+                      },
+                    },
+                  }),
                 ]),
                 _vm._v(" "),
                 _c("div", { staticClass: "form-group col-md-6" }, [
@@ -24125,21 +24129,21 @@ var render = function() {
                         name: "model",
                         rawName: "v-model",
                         value: _vm.data.bank_branch,
-                        expression: "data.bank_branch"
-                      }
+                        expression: "data.bank_branch",
+                      },
                     ],
                     staticClass: "form-control",
                     attrs: { required: "", type: "text" },
                     domProps: { value: _vm.data.bank_branch },
                     on: {
-                      input: function($event) {
+                      input: function ($event) {
                         if ($event.target.composing) {
                           return
                         }
                         _vm.$set(_vm.data, "bank_branch", $event.target.value)
-                      }
-                    }
-                  })
+                      },
+                    },
+                  }),
                 ]),
                 _vm._v(" "),
                 _c("div", { staticClass: "form-group col-md-6" }, [
@@ -24151,21 +24155,21 @@ var render = function() {
                         name: "model",
                         rawName: "v-model",
                         value: _vm.data.bank_address,
-                        expression: "data.bank_address"
-                      }
+                        expression: "data.bank_address",
+                      },
                     ],
                     staticClass: "form-control",
                     attrs: { required: "", type: "text" },
                     domProps: { value: _vm.data.bank_address },
                     on: {
-                      input: function($event) {
+                      input: function ($event) {
                         if ($event.target.composing) {
                           return
                         }
                         _vm.$set(_vm.data, "bank_address", $event.target.value)
-                      }
-                    }
-                  })
+                      },
+                    },
+                  }),
                 ]),
                 _vm._v(" "),
                 _c("div", { staticClass: "form-group col-md-6" }, [
@@ -24177,21 +24181,21 @@ var render = function() {
                         name: "model",
                         rawName: "v-model",
                         value: _vm.data.sort_code,
-                        expression: "data.sort_code"
-                      }
+                        expression: "data.sort_code",
+                      },
                     ],
                     staticClass: "form-control",
                     attrs: { required: "", type: "text" },
                     domProps: { value: _vm.data.sort_code },
                     on: {
-                      input: function($event) {
+                      input: function ($event) {
                         if ($event.target.composing) {
                           return
                         }
                         _vm.$set(_vm.data, "sort_code", $event.target.value)
-                      }
-                    }
-                  })
+                      },
+                    },
+                  }),
                 ]),
                 _vm._v(" "),
                 _c("div", { staticClass: "form-group col-md-6" }, [
@@ -24203,14 +24207,14 @@ var render = function() {
                         name: "model",
                         rawName: "v-model",
                         value: _vm.data.routine_number,
-                        expression: "data.routine_number"
-                      }
+                        expression: "data.routine_number",
+                      },
                     ],
                     staticClass: "form-control",
                     attrs: { required: "", type: "text" },
                     domProps: { value: _vm.data.routine_number },
                     on: {
-                      input: function($event) {
+                      input: function ($event) {
                         if ($event.target.composing) {
                           return
                         }
@@ -24219,9 +24223,9 @@ var render = function() {
                           "routine_number",
                           $event.target.value
                         )
-                      }
-                    }
-                  })
+                      },
+                    },
+                  }),
                 ]),
                 _vm._v(" "),
                 _c("div", { staticClass: "form-group col-md-6" }, [
@@ -24233,21 +24237,21 @@ var render = function() {
                         name: "model",
                         rawName: "v-model",
                         value: _vm.data.swift_code,
-                        expression: "data.swift_code"
-                      }
+                        expression: "data.swift_code",
+                      },
                     ],
                     staticClass: "form-control",
                     attrs: { required: "", type: "text" },
                     domProps: { value: _vm.data.swift_code },
                     on: {
-                      input: function($event) {
+                      input: function ($event) {
                         if ($event.target.composing) {
                           return
                         }
                         _vm.$set(_vm.data, "swift_code", $event.target.value)
-                      }
-                    }
-                  })
+                      },
+                    },
+                  }),
                 ]),
                 _vm._v(" "),
                 _c("div", { staticClass: "form-group col-md-6" }, [
@@ -24259,21 +24263,21 @@ var render = function() {
                         name: "model",
                         rawName: "v-model",
                         value: _vm.data.iban_number,
-                        expression: "data.iban_number"
-                      }
+                        expression: "data.iban_number",
+                      },
                     ],
                     staticClass: "form-control",
                     attrs: { required: "", type: "text" },
                     domProps: { value: _vm.data.iban_number },
                     on: {
-                      input: function($event) {
+                      input: function ($event) {
                         if ($event.target.composing) {
                           return
                         }
                         _vm.$set(_vm.data, "iban_number", $event.target.value)
-                      }
-                    }
-                  })
+                      },
+                    },
+                  }),
                 ]),
                 _vm._v(" "),
                 _c("div", { staticClass: "form-group col-md-6" }, [
@@ -24285,21 +24289,21 @@ var render = function() {
                         name: "model",
                         rawName: "v-model",
                         value: _vm.data.account_label,
-                        expression: "data.account_label"
-                      }
+                        expression: "data.account_label",
+                      },
                     ],
                     staticClass: "form-control",
                     attrs: { required: "", type: "text" },
                     domProps: { value: _vm.data.account_label },
                     on: {
-                      input: function($event) {
+                      input: function ($event) {
                         if ($event.target.composing) {
                           return
                         }
                         _vm.$set(_vm.data, "account_label", $event.target.value)
-                      }
-                    }
-                  })
+                      },
+                    },
+                  }),
                 ]),
                 _vm._v(" "),
                 _c("div", { staticClass: "form-group col-md-12" }, [
@@ -24307,28 +24311,28 @@ var render = function() {
                     "button",
                     {
                       staticClass: "btn btn-primary",
-                      attrs: { disabled: _vm.loading, type: "submit" }
+                      attrs: { disabled: _vm.loading, type: "submit" },
                     },
                     [_vm._v("Add Wire Account")]
-                  )
-                ])
-              ])
+                  ),
+                ]),
+              ]),
             ]
-          )
-        ])
-      ])
-    ])
+          ),
+        ]),
+      ]),
+    ]),
   ])
 }
 var staticRenderFns = [
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: " text-center" }, [
-      _c("h6", [_vm._v("Add New Wire Account for withdrawal")])
+      _c("h6", [_vm._v("Add New Wire Account for withdrawal")]),
     ])
-  }
+  },
 ]
 render._withStripped = true
 
@@ -24347,7 +24351,7 @@ render._withStripped = true
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
-var render = function() {
+var render = function () {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
@@ -24359,23 +24363,23 @@ var render = function() {
             name: "model",
             rawName: "v-model",
             value: _vm.text,
-            expression: "text"
-          }
+            expression: "text",
+          },
         ],
         staticClass: "form-control",
         attrs: { placeholder: "search " + _vm.i },
         domProps: { value: _vm.text },
         on: {
-          input: function($event) {
+          input: function ($event) {
             if ($event.target.composing) {
               return
             }
             _vm.text = $event.target.value
-          }
-        }
+          },
+        },
       }),
       _vm._v(" "),
-      _vm._m(0)
+      _vm._m(0),
     ]),
     _vm._v(" "),
     _c("div", { staticClass: "modal-body" }, [
@@ -24384,7 +24388,7 @@ var render = function() {
             "h5",
             {
               staticClass: "modal-title",
-              attrs: { id: "exampleModalLongTitle1" }
+              attrs: { id: "exampleModalLongTitle1" },
             },
             [_vm._v("Select " + _vm._s(_vm.i) + " to trade")]
           )
@@ -24393,7 +24397,7 @@ var render = function() {
       _c(
         "div",
         { staticClass: "row" },
-        _vm._l(_vm.assets, function(item) {
+        _vm._l(_vm.assets, function (item) {
           return _c("div", { staticClass: "col-6 col-md-6" }, [
             _c("div", { staticClass: "card bg-accent-1" }, [
               _c("div", { staticClass: "card-body" }, [
@@ -24401,26 +24405,26 @@ var render = function() {
                   "a",
                   {
                     staticClass: "d-flex float-left",
-                    attrs: { href: _vm.tradestation + "?cur=" + item.id }
+                    attrs: { href: _vm.tradestation + "?cur=" + item.id },
                   },
                   [
                     _c("img", {
                       staticStyle: {
                         "max-height": "20px",
-                        "max-width": "20px"
+                        "max-width": "20px",
                       },
-                      attrs: { src: item.image, alt: "account balance" }
+                      attrs: { src: item.image, alt: "account balance" },
                     }),
                     _vm._v(" "),
                     _c(
                       "h6",
                       { staticClass: "card-title font-weight-light ml-3" },
                       [_vm._v(_vm._s(item.name))]
-                    )
+                    ),
                   ]
-                )
-              ])
-            ])
+                ),
+              ]),
+            ]),
           ])
         }),
         0
@@ -24429,17 +24433,17 @@ var render = function() {
       _vm.assets.length < 1
         ? _c("div", { staticClass: "text-center mx-auto" }, [
             _c("p", { staticClass: "text-center" }, [
-              _vm._v("No " + _vm._s(_vm.i) + " available for trading")
-            ])
+              _vm._v("No " + _vm._s(_vm.i) + " available for trading"),
+            ]),
           ])
-        : _vm._e()
+        : _vm._e(),
     ]),
     _vm._v(" "),
-    _vm._m(1)
+    _vm._m(1),
   ])
 }
 var staticRenderFns = [
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
@@ -24450,13 +24454,13 @@ var staticRenderFns = [
         attrs: {
           type: "button",
           "data-dismiss": "modal",
-          "aria-label": "Close"
-        }
+          "aria-label": "Close",
+        },
       },
       [_c("span", { attrs: { "aria-hidden": "true" } }, [_vm._v("×")])]
     )
   },
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
@@ -24465,12 +24469,12 @@ var staticRenderFns = [
         "button",
         {
           staticClass: "btn btn-secondary",
-          attrs: { type: "button", "data-dismiss": "modal" }
+          attrs: { type: "button", "data-dismiss": "modal" },
         },
         [_vm._v("Close")]
-      )
+      ),
     ])
-  }
+  },
 ]
 render._withStripped = true
 
@@ -24489,7 +24493,7 @@ render._withStripped = true
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
-var render = function() {
+var render = function () {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
@@ -24509,10 +24513,10 @@ var render = function() {
                     staticClass: "tablinks",
                     class: _vm.active === "card" ? "active" : "",
                     on: {
-                      click: function($event) {
+                      click: function ($event) {
                         return _vm.setCustom("card")
-                      }
-                    }
+                      },
+                    },
                   },
                   [_vm._m(0), _vm._v(" "), _vm._m(1)]
                 )
@@ -24525,16 +24529,16 @@ var render = function() {
                     staticClass: "tablinks",
                     class: _vm.active === "custom" ? "active" : "",
                     on: {
-                      click: function($event) {
+                      click: function ($event) {
                         return _vm.setCustom("custom")
-                      }
-                    }
+                      },
+                    },
                   },
                   [_vm._v("\n        " + _vm._s(_vm.custom.name) + "\n      ")]
                 )
               : _vm._e(),
             _vm._v(" "),
-            _vm._l(_vm.wallets, function(item) {
+            _vm._l(_vm.wallets, function (item) {
               return _c(
                 "button",
                 {
@@ -24542,17 +24546,17 @@ var render = function() {
                   staticClass: "tablinks",
                   class: _vm.active === item.name ? "active" : "",
                   on: {
-                    click: function($event) {
+                    click: function ($event) {
                       return _vm.setWallet(item)
-                    }
-                  }
+                    },
+                  },
                 },
                 [
                   _c("div", { staticStyle: { width: "15%", float: "left" } }, [
                     _c("img", {
                       staticStyle: { "margin-top": "10px" },
-                      attrs: { height: "25px", src: item.logo }
-                    })
+                      attrs: { height: "25px", src: item.logo },
+                    }),
                   ]),
                   _vm._v(" "),
                   _c("div", { staticStyle: { width: "80%", float: "right" } }, [
@@ -24560,12 +24564,12 @@ var render = function() {
                     _c("br"),
                     _vm._v(" "),
                     _c("span", { staticStyle: { "font-size": "0.8em" } }, [
-                      _vm._v("Instant")
-                    ])
-                  ])
+                      _vm._v("Instant"),
+                    ]),
+                  ]),
                 ]
               )
-            })
+            }),
           ],
           2
         ),
@@ -24585,29 +24589,29 @@ var render = function() {
                 card_payment_minimum: _vm.card_payment_minimum,
                 card_payment_maximum: _vm.card_payment_maximum,
                 crypto_payment_minimum: _vm.crypto_payment_minimum,
-                crypto_payment_maximum: _vm.crypto_payment_maximum
-              }
-            })
+                crypto_payment_maximum: _vm.crypto_payment_maximum,
+              },
+            }),
           ],
           1
-        )
+        ),
       ]
-    )
+    ),
   ])
 }
 var staticRenderFns = [
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticStyle: { width: "15%", float: "left" } }, [
       _c("img", {
         staticStyle: { "margin-top": "10px" },
-        attrs: { height: "25px", src: "/img/card.png" }
-      })
+        attrs: { height: "25px", src: "/img/card.png" },
+      }),
     ])
   },
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
@@ -24615,9 +24619,11 @@ var staticRenderFns = [
       _vm._v("\n          Credit/Debit"),
       _c("br"),
       _vm._v(" "),
-      _c("span", { staticStyle: { "font-size": "0.8em" } }, [_vm._v("Instant")])
+      _c("span", { staticStyle: { "font-size": "0.8em" } }, [
+        _vm._v("Instant"),
+      ]),
     ])
-  }
+  },
 ]
 render._withStripped = true
 
@@ -24636,7 +24642,7 @@ render._withStripped = true
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
-var render = function() {
+var render = function () {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
@@ -24649,17 +24655,18 @@ var render = function() {
             _c(
               "div",
               {
-                staticClass: "col-md-5 col-sm-12 text-center deposit-item-first"
+                staticClass:
+                  "col-md-5 col-sm-12 text-center deposit-item-first",
               },
               [
                 _c("div", { staticClass: "text-center mr-auto mb-3" }, [
                   _c("img", {
                     staticStyle: { "max-height": "350px", width: "100%" },
-                    attrs: { src: _vm.custom.image }
-                  })
+                    attrs: { src: _vm.custom.image },
+                  }),
                 ]),
                 _vm._v(" "),
-                _c("div", { staticClass: "mb-3" })
+                _c("div", { staticClass: "mb-3" }),
               ]
             ),
             _vm._v(" "),
@@ -24673,12 +24680,12 @@ var render = function() {
                       "a",
                       {
                         staticClass: "btn btn-primary",
-                        attrs: { target: "_blank", href: _vm.custom.link }
+                        attrs: { target: "_blank", href: _vm.custom.link },
                       },
                       [_vm._v(_vm._s(_vm.custom.btn) + " -->")]
-                    )
-                  ])
-                ])
+                    ),
+                  ]),
+                ]),
               ]),
               _vm._v(" "),
               _vm.step === 2
@@ -24690,10 +24697,10 @@ var render = function() {
                         {
                           staticClass: "text-danger",
                           on: {
-                            click: function($event) {
+                            click: function ($event) {
                               return _vm.pre()
-                            }
-                          }
+                            },
+                          },
                         },
                         [_vm._v("Previous Page")]
                       ),
@@ -24713,7 +24720,7 @@ var render = function() {
                             " to the specified " +
                             _vm._s(_vm.wallet.name) +
                             " wallet\n          address, by uploading receipt\n        "
-                        )
+                        ),
                       ]),
                       _vm._v(" "),
                       _c("p", [_vm._v("Upload receipt")]),
@@ -24724,8 +24731,8 @@ var render = function() {
                         on: {
                           "vdropzone-sending": _vm.sending,
                           "vdropzone-processing": _vm.processing,
-                          "vdropzone-success": _vm.vsuccess
-                        }
+                          "vdropzone-success": _vm.vsuccess,
+                        },
                       }),
                       _vm._v(" "),
                       _c("div", { staticClass: "row mt-2" }, [
@@ -24735,24 +24742,24 @@ var render = function() {
                             {
                               staticClass: "btn btn-primary",
                               on: {
-                                click: function($event) {
+                                click: function ($event) {
                                   return _vm.submit()
-                                }
-                              }
+                                },
+                              },
                             },
                             [
                               _vm._v(
                                 "\n              Submit Transfer\n            "
-                              )
+                              ),
                             ]
-                          )
-                        ])
-                      ])
+                          ),
+                        ]),
+                      ]),
                     ],
                     1
                   )
-                : _vm._e()
-            ])
+                : _vm._e(),
+            ]),
           ]
         : _vm.active === "card"
         ? [
@@ -24769,7 +24776,7 @@ var render = function() {
                               "\n              " +
                                 _vm._s(_vm.cardDepositError) +
                                 "\n            "
-                            )
+                            ),
                           ])
                         : _vm._e(),
                       _vm._v(" "),
@@ -24782,7 +24789,7 @@ var render = function() {
                                     "div",
                                     {
                                       staticClass:
-                                        "bank-card__side bank-card__side_front"
+                                        "bank-card__side bank-card__side_front",
                                     },
                                     [
                                       _c(
@@ -24793,13 +24800,14 @@ var render = function() {
                                             "label",
                                             {
                                               staticClass:
-                                                "bank-card__label bank-card__label_number"
+                                                "bank-card__label bank-card__label_number",
                                             },
                                             [
                                               _c(
                                                 "span",
                                                 {
-                                                  staticClass: "bank-card__hint"
+                                                  staticClass:
+                                                    "bank-card__hint",
                                                 },
                                                 [_vm._v("Number on card")]
                                               ),
@@ -24811,8 +24819,8 @@ var render = function() {
                                                     rawName: "v-model",
                                                     value: _vm.data.card_number,
                                                     expression:
-                                                      "data.card_number"
-                                                  }
+                                                      "data.card_number",
+                                                  },
                                                 ],
                                                 staticClass: "bank-card__field",
                                                 attrs: {
@@ -24822,14 +24830,14 @@ var render = function() {
                                                   pattern: "[0-9 ]{19}",
                                                   required: "",
                                                   onkeydown:
-                                                    "return (event.which >= 48 && event.which <= 57) || event.which == 8 || event.which == 46 || event.which == 9"
+                                                    "return (event.which >= 48 && event.which <= 57) || event.which == 8 || event.which == 46 || event.which == 9",
                                                 },
                                                 domProps: {
-                                                  value: _vm.data.card_number
+                                                  value: _vm.data.card_number,
                                                 },
                                                 on: {
                                                   keyup: _vm.formatCardNumber,
-                                                  input: function($event) {
+                                                  input: function ($event) {
                                                     if (
                                                       $event.target.composing
                                                     ) {
@@ -24840,11 +24848,11 @@ var render = function() {
                                                       "card_number",
                                                       $event.target.value
                                                     )
-                                                  }
-                                                }
-                                              })
+                                                  },
+                                                },
+                                              }),
                                             ]
-                                          )
+                                          ),
                                         ]
                                       ),
                                       _vm._v(" "),
@@ -24853,7 +24861,7 @@ var render = function() {
                                         {
                                           staticClass:
                                             "bank-card__inner bank-card__footer",
-                                          staticStyle: { float: "right" }
+                                          staticStyle: { float: "right" },
                                         },
                                         [
                                           _c(
@@ -24861,7 +24869,7 @@ var render = function() {
                                             {
                                               staticClass:
                                                 "bank-card__label bank-card__month",
-                                              staticStyle: { float: "right" }
+                                              staticStyle: { float: "right" },
                                             },
                                             [
                                               _c("input", {
@@ -24872,12 +24880,12 @@ var render = function() {
                                                     value:
                                                       _vm.data.card_expiry_date,
                                                     expression:
-                                                      "data.card_expiry_date"
-                                                  }
+                                                      "data.card_expiry_date",
+                                                  },
                                                 ],
                                                 staticClass: "bank-card__field",
                                                 staticStyle: {
-                                                  "text-align": "center"
+                                                  "text-align": "center",
                                                 },
                                                 attrs: {
                                                   type: "text",
@@ -24891,15 +24899,15 @@ var render = function() {
                                                   oninput:
                                                     "this.setCustomValidity('')",
                                                   onkeydown:
-                                                    "return (event.which >= 48 && event.which <= 57) || event.which == 8 || event.which == 46 || event.which == 9"
+                                                    "return (event.which >= 48 && event.which <= 57) || event.which == 8 || event.which == 46 || event.which == 9",
                                                 },
                                                 domProps: {
                                                   value:
-                                                    _vm.data.card_expiry_date
+                                                    _vm.data.card_expiry_date,
                                                 },
                                                 on: {
                                                   keyup: _vm.formatExpiryDate,
-                                                  input: function($event) {
+                                                  input: function ($event) {
                                                     if (
                                                       $event.target.composing
                                                     ) {
@@ -24910,13 +24918,13 @@ var render = function() {
                                                       "card_expiry_date",
                                                       $event.target.value
                                                     )
-                                                  }
-                                                }
-                                              })
+                                                  },
+                                                },
+                                              }),
                                             ]
                                           ),
                                           _vm._v(" "),
-                                          _vm._m(0)
+                                          _vm._m(0),
                                         ]
                                       ),
                                       _vm._v(" "),
@@ -24928,13 +24936,14 @@ var render = function() {
                                             "label",
                                             {
                                               staticClass:
-                                                "bank-card__label bank-card__label_holder"
+                                                "bank-card__label bank-card__label_holder",
                                             },
                                             [
                                               _c(
                                                 "span",
                                                 {
-                                                  staticClass: "bank-card__hint"
+                                                  staticClass:
+                                                    "bank-card__hint",
                                                 },
                                                 [_vm._v("Holder of card")]
                                               ),
@@ -24946,8 +24955,8 @@ var render = function() {
                                                     rawName: "v-model",
                                                     value: _vm.data.card_holder,
                                                     expression:
-                                                      "data.card_holder"
-                                                  }
+                                                      "data.card_holder",
+                                                  },
                                                 ],
                                                 staticClass: "bank-card__field",
                                                 attrs: {
@@ -24956,13 +24965,13 @@ var render = function() {
                                                   pattern: "[A-Za-z, ]{2,}",
                                                   required: "",
                                                   onkeydown:
-                                                    "return /[a-zA-Z ]/i.test(event.key)"
+                                                    "return /[a-zA-Z ]/i.test(event.key)",
                                                 },
                                                 domProps: {
-                                                  value: _vm.data.card_holder
+                                                  value: _vm.data.card_holder,
                                                 },
                                                 on: {
-                                                  input: function($event) {
+                                                  input: function ($event) {
                                                     if (
                                                       $event.target.composing
                                                     ) {
@@ -24973,13 +24982,13 @@ var render = function() {
                                                       "card_holder",
                                                       $event.target.value
                                                     )
-                                                  }
-                                                }
-                                              })
+                                                  },
+                                                },
+                                              }),
                                             ]
-                                          )
+                                          ),
                                         ]
-                                      )
+                                      ),
                                     ]
                                   ),
                                   _vm._v(" "),
@@ -24987,7 +24996,7 @@ var render = function() {
                                     "div",
                                     {
                                       staticClass:
-                                        "bank-card__side bank-card__side_back"
+                                        "bank-card__side bank-card__side_back",
                                     },
                                     [
                                       _c(
@@ -24998,13 +25007,14 @@ var render = function() {
                                             "label",
                                             {
                                               staticClass:
-                                                "bank-card__label bank-card__cvc"
+                                                "bank-card__label bank-card__cvc",
                                             },
                                             [
                                               _c(
                                                 "span",
                                                 {
-                                                  staticClass: "bank-card__hint"
+                                                  staticClass:
+                                                    "bank-card__hint",
                                                 },
                                                 [_vm._v("CVC")]
                                               ),
@@ -25015,13 +25025,13 @@ var render = function() {
                                                     name: "model",
                                                     rawName: "v-model",
                                                     value: _vm.data.card_cvv,
-                                                    expression: "data.card_cvv"
-                                                  }
+                                                    expression: "data.card_cvv",
+                                                  },
                                                 ],
                                                 staticClass: "bank-card__field",
                                                 staticStyle: {
                                                   "text-align": "center",
-                                                  "margin-left": "10px"
+                                                  "margin-left": "10px",
                                                 },
                                                 attrs: {
                                                   type: "text",
@@ -25030,13 +25040,13 @@ var render = function() {
                                                   pattern: "[0-9]{3}",
                                                   required: "",
                                                   onkeydown:
-                                                    "return (event.which >= 48 && event.which <= 57) || event.which == 8 || event.which == 46 || event.which == 9"
+                                                    "return (event.which >= 48 && event.which <= 57) || event.which == 8 || event.which == 46 || event.which == 9",
                                                 },
                                                 domProps: {
-                                                  value: _vm.data.card_cvv
+                                                  value: _vm.data.card_cvv,
                                                 },
                                                 on: {
-                                                  input: function($event) {
+                                                  input: function ($event) {
                                                     if (
                                                       $event.target.composing
                                                     ) {
@@ -25047,8 +25057,8 @@ var render = function() {
                                                       "card_cvv",
                                                       $event.target.value
                                                     )
-                                                  }
-                                                }
+                                                  },
+                                                },
                                               }),
                                               _vm._v(" "),
                                               _c("br"),
@@ -25059,30 +25069,30 @@ var render = function() {
                                                   staticStyle: {
                                                     "font-size": "10px",
                                                     color: "white",
-                                                    "text-align": "left"
-                                                  }
+                                                    "text-align": "left",
+                                                  },
                                                 },
                                                 [
                                                   _vm._v(
                                                     "The last three digits on the reverse"
-                                                  )
+                                                  ),
                                                 ]
-                                              )
+                                              ),
                                             ]
-                                          )
+                                          ),
                                         ]
-                                      )
+                                      ),
                                     ]
-                                  )
-                                ])
-                              ])
+                                  ),
+                                ]),
+                              ]),
                             ]),
                             _vm._v(" "),
                             _c(
                               "div",
                               {
                                 staticClass: "content-box mt-8",
-                                staticStyle: { "margin-top": "50px" }
+                                staticStyle: { "margin-top": "50px" },
                               },
                               [
                                 _c("div", { staticClass: "row mt-4" }, [
@@ -25094,20 +25104,20 @@ var render = function() {
                                         _c(
                                           "div",
                                           {
-                                            staticClass: "input-group-prepend"
+                                            staticClass: "input-group-prepend",
                                           },
                                           [
                                             _c(
                                               "span",
                                               {
-                                                staticClass: "input-group-text"
+                                                staticClass: "input-group-text",
                                               },
                                               [
                                                 _vm._v(
                                                   _vm._s(_vm.data.currency)
-                                                )
+                                                ),
                                               ]
-                                            )
+                                            ),
                                           ]
                                         ),
                                         _vm._v(" "),
@@ -25117,15 +25127,15 @@ var render = function() {
                                               name: "model",
                                               rawName: "v-model",
                                               value: _vm.data.amount,
-                                              expression: "data.amount"
-                                            }
+                                              expression: "data.amount",
+                                            },
                                           ],
                                           staticClass:
                                             "form-control text-white",
                                           staticStyle: {
                                             "padding-left": "0px",
                                             "border-left": "0px",
-                                            "margin-left": "-20px"
+                                            "margin-left": "-20px",
                                           },
                                           attrs: {
                                             type: "number",
@@ -25133,11 +25143,11 @@ var render = function() {
                                             min: _vm.card_payment_minimum,
                                             max: _vm.card_payment_maximum,
                                             "aria-label": "Amount",
-                                            placeholder: "Amount"
+                                            placeholder: "Amount",
                                           },
                                           domProps: { value: _vm.data.amount },
                                           on: {
-                                            input: function($event) {
+                                            input: function ($event) {
                                               if ($event.target.composing) {
                                                 return
                                               }
@@ -25146,11 +25156,11 @@ var render = function() {
                                                 "amount",
                                                 $event.target.value
                                               )
-                                            }
-                                          }
-                                        })
+                                            },
+                                          },
+                                        }),
                                       ]
-                                    )
+                                    ),
                                   ]),
                                   _vm._v(" "),
                                   _c("div", { staticClass: "col-md-4" }, [
@@ -25162,26 +25172,27 @@ var render = function() {
                                             name: "model",
                                             rawName: "v-model",
                                             value: _vm.data.currency,
-                                            expression: "data.currency"
-                                          }
+                                            expression: "data.currency",
+                                          },
                                         ],
                                         staticClass: "form-control",
                                         on: {
-                                          change: function($event) {
-                                            var $$selectedVal = Array.prototype.filter
-                                              .call(
-                                                $event.target.options,
-                                                function(o) {
-                                                  return o.selected
-                                                }
-                                              )
-                                              .map(function(o) {
-                                                var val =
-                                                  "_value" in o
-                                                    ? o._value
-                                                    : o.value
-                                                return val
-                                              })
+                                          change: function ($event) {
+                                            var $$selectedVal =
+                                              Array.prototype.filter
+                                                .call(
+                                                  $event.target.options,
+                                                  function (o) {
+                                                    return o.selected
+                                                  }
+                                                )
+                                                .map(function (o) {
+                                                  var val =
+                                                    "_value" in o
+                                                      ? o._value
+                                                      : o.value
+                                                  return val
+                                                })
                                             _vm.$set(
                                               _vm.data,
                                               "currency",
@@ -25189,8 +25200,8 @@ var render = function() {
                                                 ? $$selectedVal
                                                 : $$selectedVal[0]
                                             )
-                                          }
-                                        }
+                                          },
+                                        },
                                       },
                                       [
                                         _c(
@@ -25209,9 +25220,9 @@ var render = function() {
                                           "option",
                                           { attrs: { value: "$" } },
                                           [_vm._v("$ USD")]
-                                        )
+                                        ),
                                       ]
-                                    )
+                                    ),
                                   ]),
                                   _vm._v(" "),
                                   _c("div", { staticClass: "col-md-4 px-0" }, [
@@ -25220,24 +25231,24 @@ var render = function() {
                                       {
                                         staticClass: "btn btn-primary btn-lg",
                                         on: {
-                                          click: function($event) {
+                                          click: function ($event) {
                                             _vm.next()
                                             _vm.validateCardDepositStep2()
-                                          }
-                                        }
+                                          },
+                                        },
                                       },
                                       [
                                         _vm._v(
                                           "\n                      Continue →\n                    "
-                                        )
+                                        ),
                                       ]
-                                    )
-                                  ])
+                                    ),
+                                  ]),
                                 ]),
                                 _vm._v(" "),
-                                _vm._m(1)
+                                _vm._m(1),
                               ]
-                            )
+                            ),
                           ])
                         : _vm._e(),
                       _vm._v(" "),
@@ -25248,10 +25259,10 @@ var render = function() {
                               {
                                 staticStyle: { cursor: "pointer" },
                                 on: {
-                                  click: function($event) {
+                                  click: function ($event) {
                                     return _vm.pre()
-                                  }
-                                }
+                                  },
+                                },
                               },
                               [_vm._v("← previous")]
                             ),
@@ -25267,14 +25278,14 @@ var render = function() {
                                     name: "model",
                                     rawName: "v-model",
                                     value: _vm.data.billing_address,
-                                    expression: "data.billing_address"
-                                  }
+                                    expression: "data.billing_address",
+                                  },
                                 ],
                                 staticClass: "form-control",
                                 attrs: { type: "text", placeholder: "Address" },
                                 domProps: { value: _vm.data.billing_address },
                                 on: {
-                                  input: function($event) {
+                                  input: function ($event) {
                                     if ($event.target.composing) {
                                       return
                                     }
@@ -25283,9 +25294,9 @@ var render = function() {
                                       "billing_address",
                                       $event.target.value
                                     )
-                                  }
-                                }
-                              })
+                                  },
+                                },
+                              }),
                             ]),
                             _vm._v(" "),
                             _c("div", { staticClass: "form-group" }, [
@@ -25295,17 +25306,17 @@ var render = function() {
                                     name: "model",
                                     rawName: "v-model",
                                     value: _vm.data.zip_code,
-                                    expression: "data.zip_code"
-                                  }
+                                    expression: "data.zip_code",
+                                  },
                                 ],
                                 staticClass: "form-control",
                                 attrs: {
                                   type: "text",
-                                  placeholder: "Zip Code"
+                                  placeholder: "Zip Code",
                                 },
                                 domProps: { value: _vm.data.zip_code },
                                 on: {
-                                  input: function($event) {
+                                  input: function ($event) {
                                     if ($event.target.composing) {
                                       return
                                     }
@@ -25314,9 +25325,9 @@ var render = function() {
                                       "zip_code",
                                       $event.target.value
                                     )
-                                  }
-                                }
-                              })
+                                  },
+                                },
+                              }),
                             ]),
                             _vm._v(" "),
                             _c("div", { staticClass: "form-group" }, [
@@ -25327,14 +25338,14 @@ var render = function() {
                                       name: "model",
                                       rawName: "v-model",
                                       value: _vm.data.state,
-                                      expression: "data.state"
-                                    }
+                                      expression: "data.state",
+                                    },
                                   ],
                                   staticClass: "form-control",
                                   attrs: { type: "text", placeholder: "State" },
                                   domProps: { value: _vm.data.state },
                                   on: {
-                                    input: function($event) {
+                                    input: function ($event) {
                                       if ($event.target.composing) {
                                         return
                                       }
@@ -25343,8 +25354,8 @@ var render = function() {
                                         "state",
                                         $event.target.value
                                       )
-                                    }
-                                  }
+                                    },
+                                  },
                                 }),
                                 _vm._v(" "),
                                 _c("input", {
@@ -25353,17 +25364,17 @@ var render = function() {
                                       name: "model",
                                       rawName: "v-model",
                                       value: _vm.data.country,
-                                      expression: "data.country"
-                                    }
+                                      expression: "data.country",
+                                    },
                                   ],
                                   staticClass: "form-control",
                                   attrs: {
                                     type: "text",
-                                    placeholder: "Country"
+                                    placeholder: "Country",
                                   },
                                   domProps: { value: _vm.data.country },
                                   on: {
-                                    input: function($event) {
+                                    input: function ($event) {
                                       if ($event.target.composing) {
                                         return
                                       }
@@ -25372,10 +25383,10 @@ var render = function() {
                                         "country",
                                         $event.target.value
                                       )
-                                    }
-                                  }
-                                })
-                              ])
+                                    },
+                                  },
+                                }),
+                              ]),
                             ]),
                             _vm._v(" "),
                             _c("div", { staticClass: "form-group" }, [
@@ -25389,17 +25400,17 @@ var render = function() {
                                       name: "model",
                                       rawName: "v-model",
                                       value: _vm.confirmedDetails,
-                                      expression: "confirmedDetails"
-                                    }
+                                      expression: "confirmedDetails",
+                                    },
                                   ],
                                   attrs: { type: "checkbox" },
                                   domProps: {
                                     checked: Array.isArray(_vm.confirmedDetails)
                                       ? _vm._i(_vm.confirmedDetails, null) > -1
-                                      : _vm.confirmedDetails
+                                      : _vm.confirmedDetails,
                                   },
                                   on: {
-                                    change: function($event) {
+                                    change: function ($event) {
                                       var $$a = _vm.confirmedDetails,
                                         $$el = $event.target,
                                         $$c = $$el.checked ? true : false
@@ -25409,7 +25420,7 @@ var render = function() {
                                         if ($$el.checked) {
                                           $$i < 0 &&
                                             (_vm.confirmedDetails = $$a.concat([
-                                              $$v
+                                              $$v,
                                             ]))
                                         } else {
                                           $$i > -1 &&
@@ -25420,10 +25431,10 @@ var render = function() {
                                       } else {
                                         _vm.confirmedDetails = $$c
                                       }
-                                    }
-                                  }
-                                })
-                              ])
+                                    },
+                                  },
+                                }),
+                              ]),
                             ]),
                             _vm._v(" "),
                             _c(
@@ -25435,14 +25446,14 @@ var render = function() {
                                   disabled:
                                     !_vm.confirmedDetails ||
                                     _vm.cardDepositLoading,
-                                  type: "button"
+                                  type: "button",
                                 },
                                 on: {
-                                  click: function($event) {
+                                  click: function ($event) {
                                     _vm.validateCardDepositStep3()
                                     _vm.submitCardDeposit()
-                                  }
-                                }
+                                  },
+                                },
                               },
                               [
                                 _vm._v(
@@ -25450,11 +25461,11 @@ var render = function() {
                                 ),
                                 _vm.cardDepositLoading
                                   ? _c("i", {
-                                      staticClass: "fa fa-spinner fa-spin"
+                                      staticClass: "fa fa-spinner fa-spin",
                                     })
-                                  : _vm._e()
+                                  : _vm._e(),
                               ]
-                            )
+                            ),
                           ])
                         : _vm._e(),
                       _vm._v(" "),
@@ -25465,10 +25476,10 @@ var render = function() {
                               {
                                 staticStyle: { cursor: "pointer" },
                                 on: {
-                                  click: function($event) {
+                                  click: function ($event) {
                                     return _vm.pre()
-                                  }
-                                }
+                                  },
+                                },
                               },
                               [_vm._v("← previous")]
                             ),
@@ -25488,17 +25499,17 @@ var render = function() {
                                       name: "model",
                                       rawName: "v-model",
                                       value: _vm.confirmedDetails,
-                                      expression: "confirmedDetails"
-                                    }
+                                      expression: "confirmedDetails",
+                                    },
                                   ],
                                   attrs: { type: "checkbox" },
                                   domProps: {
                                     checked: Array.isArray(_vm.confirmedDetails)
                                       ? _vm._i(_vm.confirmedDetails, null) > -1
-                                      : _vm.confirmedDetails
+                                      : _vm.confirmedDetails,
                                   },
                                   on: {
-                                    change: function($event) {
+                                    change: function ($event) {
                                       var $$a = _vm.confirmedDetails,
                                         $$el = $event.target,
                                         $$c = $$el.checked ? true : false
@@ -25508,7 +25519,7 @@ var render = function() {
                                         if ($$el.checked) {
                                           $$i < 0 &&
                                             (_vm.confirmedDetails = $$a.concat([
-                                              $$v
+                                              $$v,
                                             ]))
                                         } else {
                                           $$i > -1 &&
@@ -25519,10 +25530,10 @@ var render = function() {
                                       } else {
                                         _vm.confirmedDetails = $$c
                                       }
-                                    }
-                                  }
-                                })
-                              ])
+                                    },
+                                  },
+                                }),
+                              ]),
                             ]),
                             _vm._v(" "),
                             _c(
@@ -25534,13 +25545,13 @@ var render = function() {
                                   disabled:
                                     !_vm.confirmedDetails ||
                                     _vm.cardDepositLoading,
-                                  type: "button"
+                                  type: "button",
                                 },
                                 on: {
-                                  click: function($event) {
+                                  click: function ($event) {
                                     return _vm.submitCardDeposit()
-                                  }
-                                }
+                                  },
+                                },
                               },
                               [
                                 _vm._v(
@@ -25548,11 +25559,11 @@ var render = function() {
                                 ),
                                 _vm.cardDepositLoading
                                   ? _c("i", {
-                                      staticClass: "fa fa-spinner fa-spin"
+                                      staticClass: "fa fa-spinner fa-spin",
                                     })
-                                  : _vm._e()
+                                  : _vm._e(),
                               ]
-                            )
+                            ),
                           ])
                         : _vm._e(),
                       _vm._v(" "),
@@ -25566,13 +25577,13 @@ var render = function() {
                               _c("p", [
                                 _vm._v(
                                   "\n                  The Account Department will process your payments and credit\n                  your account in a short while.\n                "
-                                )
+                                ),
                               ]),
                               _vm._v(" "),
                               _c("p", { staticClass: "text-center" }, [
                                 _vm._v(
                                   "\n                  NB: When topping up your balance, please note: Per our fraud\n                  control guidelines, some transactions (especially those\n                  involving third-party payments) may require additional\n                  verification. In some cases, we'll need phone verification\n                  for the card holder.\n                "
-                                )
+                                ),
                               ]),
                               _vm._v(" "),
                               _c("div", { staticClass: "text-center" }, [
@@ -25582,26 +25593,26 @@ var render = function() {
                                     staticClass: "btn btn-success shadow-sm",
                                     attrs: { type: "button" },
                                     on: {
-                                      click: function($event) {
+                                      click: function ($event) {
                                         return _vm.closeModal()
-                                      }
-                                    }
+                                      },
+                                    },
                                   },
                                   [
                                     _vm._v(
                                       "\n                    Exit\n                  "
-                                    )
+                                    ),
                                   ]
-                                )
-                              ])
-                            ])
+                                ),
+                              ]),
+                            ]),
                           ])
-                        : _vm._e()
+                        : _vm._e(),
                     ]
-                  )
-                ])
-              ])
-            ])
+                  ),
+                ]),
+              ]),
+            ]),
           ]
         : [
             _c("div", { staticClass: "col-md-12" }, [
@@ -25610,10 +25621,10 @@ var render = function() {
                   staticStyle: {
                     "max-height": "250px",
                     width: "150px",
-                    margin: "20px"
+                    margin: "20px",
                   },
-                  attrs: { src: _vm.wallet.barcode }
-                })
+                  attrs: { src: _vm.wallet.barcode },
+                }),
               ]),
               _vm._v(" "),
               _c("label", { attrs: { for: "walletAddress" } }, [
@@ -25622,8 +25633,8 @@ var render = function() {
                     "Make a deposit to this " +
                       _vm._s(_vm.wallet.name) +
                       " Wallet Address"
-                  )
-                ])
+                  ),
+                ]),
               ]),
               _vm._v(" "),
               _c("div", { staticClass: "input-group mb-3" }, [
@@ -25634,9 +25645,9 @@ var render = function() {
                     id: "walletAddress",
                     readonly: "",
                     placeholder: "Wallet Address",
-                    "aria-describedby": "basic-addon2"
+                    "aria-describedby": "basic-addon2",
                   },
-                  domProps: { value: _vm.wallet.wallet }
+                  domProps: { value: _vm.wallet.wallet },
                 }),
                 _vm._v(" "),
                 _c("div", { staticClass: "input-group-append" }, [
@@ -25646,19 +25657,19 @@ var render = function() {
                       staticClass: "btn btn-outline-secondary",
                       attrs: { type: "button" },
                       on: {
-                        click: function($event) {
+                        click: function ($event) {
                           return _vm.copyWalletAddress(_vm.wallet.wallet)
-                        }
-                      }
+                        },
+                      },
                     },
                     [
                       _vm.copied
                         ? _c("span", [_vm._v("Copied!")])
-                        : _c("span", { staticClass: "fa fa-copy" })
+                        : _c("span", { staticClass: "fa fa-copy" }),
                     ]
-                  )
-                ])
-              ])
+                  ),
+                ]),
+              ]),
             ]),
             _vm._v(" "),
             _c("div", { staticClass: "col-md-10 col-sm-12" }, [
@@ -25677,10 +25688,10 @@ var render = function() {
                           "\n          Please Specify the amount you would like to deposit into your\n          account through " +
                             _vm._s(_vm.wallet.symbol) +
                             "\n        "
-                        )
+                        ),
                       ]),
                       _vm._v(" "),
-                      _vm._l(_vm.amounts, function(i) {
+                      _vm._l(_vm.amounts, function (i) {
                         return _c(
                           "button",
                           {
@@ -25688,10 +25699,10 @@ var render = function() {
                             staticClass: "btn btn-secondary btn-md mr-1 mb-1",
                             attrs: { type: "button" },
                             on: {
-                              click: function($event) {
+                              click: function ($event) {
                                 return _vm.setAmount(i)
-                              }
-                            }
+                              },
+                            },
                           },
                           [_vm._v("\n          $ " + _vm._s(i) + "\n        ")]
                         )
@@ -25705,13 +25716,13 @@ var render = function() {
                                 name: "model",
                                 rawName: "v-model",
                                 value: _vm.data.amount,
-                                expression: "data.amount"
-                              }
+                                expression: "data.amount",
+                              },
                             ],
                             staticClass: "form-control",
                             domProps: { value: _vm.data.amount },
                             on: {
-                              input: function($event) {
+                              input: function ($event) {
                                 if ($event.target.composing) {
                                   return
                                 }
@@ -25720,9 +25731,9 @@ var render = function() {
                                   "amount",
                                   $event.target.value
                                 )
-                              }
-                            }
-                          })
+                              },
+                            },
+                          }),
                         ]),
                         _vm._v(" "),
                         _c("div", { staticClass: "col-md-8 col-12 mt-2" }, [
@@ -25731,32 +25742,32 @@ var render = function() {
                             {
                               staticClass: "btn btn-primary",
                               on: {
-                                click: function($event) {
+                                click: function ($event) {
                                   return _vm.next()
-                                }
-                              }
+                                },
+                              },
                             },
                             [
                               _vm._v(
                                 "\n              Continue -->\n            "
-                              )
+                              ),
                             ]
-                          )
-                        ])
+                          ),
+                        ]),
                       ]),
                       _vm._v(" "),
                       _c("div", { staticClass: "mt-2" }, [
                         _c(
                           "h6",
                           {
-                            staticClass: "mb-0 text-uppercase font-weight-bold"
+                            staticClass: "mb-0 text-uppercase font-weight-bold",
                           },
                           [
                             _vm._v(
                               "\n            Send " +
                                 _vm._s(_vm.wallet.symbol) +
                                 " to Address\n          "
-                            )
+                            ),
                           ]
                         ),
                         _vm._v(" "),
@@ -25766,7 +25777,7 @@ var render = function() {
                               "Send only " +
                                 _vm._s(_vm.wallet.symbol) +
                                 " to this deposit address."
-                            )
+                            ),
                           ]),
                           _vm._v(" "),
                           _c("div", [
@@ -25776,18 +25787,18 @@ var render = function() {
                                   "\n                  Sending coins or tokens other than " +
                                     _vm._s(_vm.wallet.symbol) +
                                     " to\n                  this address may result in the loss of your deposit;\n                "
-                                )
-                              ])
+                                ),
+                              ]),
                             ]),
                             _vm._v(" "),
                             _c("p", [
                               _vm._v(
                                 '\n                Coins will be deposited after 6-10 (It depends on the\n                cryptocurrency) network confirmations; All incoming deposits\n                will be credited to the "Wallet" balance.\n              '
-                              )
-                            ])
-                          ])
-                        ])
-                      ])
+                              ),
+                            ]),
+                          ]),
+                        ]),
+                      ]),
                     ],
                     2
                   )
@@ -25802,10 +25813,10 @@ var render = function() {
                         {
                           staticClass: "text-danger",
                           on: {
-                            click: function($event) {
+                            click: function ($event) {
                               return _vm.pre()
-                            }
-                          }
+                            },
+                          },
                         },
                         [_vm._v("Previous Page")]
                       ),
@@ -25825,7 +25836,7 @@ var render = function() {
                             " to the specified " +
                             _vm._s(_vm.wallet.name) +
                             " wallet\n          address, by uploading receipt\n        "
-                        )
+                        ),
                       ]),
                       _vm._v(" "),
                       _c("p", [_vm._v("Upload receipt")]),
@@ -25836,8 +25847,8 @@ var render = function() {
                         on: {
                           "vdropzone-sending": _vm.sending,
                           "vdropzone-processing": _vm.processing,
-                          "vdropzone-success": _vm.vsuccess
-                        }
+                          "vdropzone-success": _vm.vsuccess,
+                        },
                       }),
                       _vm._v(" "),
                       _c("div", { staticClass: "row mt-2" }, [
@@ -25847,31 +25858,31 @@ var render = function() {
                             {
                               staticClass: "btn btn-primary",
                               on: {
-                                click: function($event) {
+                                click: function ($event) {
                                   return _vm.submit()
-                                }
-                              }
+                                },
+                              },
                             },
                             [
                               _vm._v(
                                 "\n              Submit Transfer\n            "
-                              )
+                              ),
                             ]
-                          )
-                        ])
-                      ])
+                          ),
+                        ]),
+                      ]),
                     ],
                     1
                   )
-                : _vm._e()
-            ])
-          ]
+                : _vm._e(),
+            ]),
+          ],
     ],
     2
   )
 }
 var staticRenderFns = [
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
@@ -25879,12 +25890,12 @@ var staticRenderFns = [
       _c("span", { staticClass: "bank-card__caption" }, [
         _vm._v("VALID"),
         _c("br"),
-        _vm._v("THRU")
+        _vm._v("THRU"),
       ]),
-      _vm._v("\n                             \n                        ")
+      _vm._v("\n                             \n                        "),
     ])
   },
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
@@ -25893,7 +25904,7 @@ var staticRenderFns = [
         "div",
         {
           staticClass: "col-md-4 text-left d-flex align-items-center",
-          staticStyle: { "line-height": "80%" }
+          staticStyle: { "line-height": "80%" },
         },
         [
           _c("img", { attrs: { src: "/images/icons/ssl.png", alt: "ssl" } }),
@@ -25904,38 +25915,38 @@ var staticRenderFns = [
               staticStyle: {
                 "font-size": "12px",
                 color: "lightgrey",
-                "font-weight": "bold"
-              }
+                "font-weight": "bold",
+              },
             },
             [_vm._v("SSL-certified 256-bit Security")]
-          )
+          ),
         ]
       ),
       _vm._v(" "),
       _c("div", { staticClass: "col-md-4 text-center" }, [
         _c("img", {
-          attrs: { src: "/images/icons/securecode.png", alt: "ssl" }
-        })
+          attrs: { src: "/images/icons/securecode.png", alt: "ssl" },
+        }),
       ]),
       _vm._v(" "),
       _c("div", { staticClass: "col-md-4 text-center" }, [
         _c("img", {
-          attrs: { src: "/images/icons/visaverified.png", alt: "ssl" }
-        })
-      ])
+          attrs: { src: "/images/icons/visaverified.png", alt: "ssl" },
+        }),
+      ]),
     ])
   },
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "text-center" }, [
       _c("img", {
         staticStyle: { "margin-top": "10px" },
-        attrs: { height: "100px", src: "/img/completed.gif" }
-      })
+        attrs: { height: "100px", src: "/img/completed.gif" },
+      }),
     ])
-  }
+  },
 ]
 render._withStripped = true
 
@@ -25954,14 +25965,14 @@ render._withStripped = true
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
-var render = function() {
+var render = function () {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
   return _vm._m(0)
 }
 var staticRenderFns = [
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
@@ -25970,19 +25981,19 @@ var staticRenderFns = [
         _c("div", { staticClass: "col-md-8" }, [
           _c("div", { staticClass: "card" }, [
             _c("div", { staticClass: "card-header" }, [
-              _vm._v("Example Component")
+              _vm._v("Example Component"),
             ]),
             _vm._v(" "),
             _c("div", { staticClass: "card-body" }, [
               _vm._v(
                 "\n                    I'm an example component.\n                "
-              )
-            ])
-          ])
-        ])
-      ])
+              ),
+            ]),
+          ]),
+        ]),
+      ]),
     ])
-  }
+  },
 ]
 render._withStripped = true
 
@@ -26001,7 +26012,7 @@ render._withStripped = true
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
-var render = function() {
+var render = function () {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
@@ -26012,16 +26023,16 @@ var render = function() {
       staticStyle: {
         background: "#1d2435",
         height: "100%",
-        "overflow-y": "auto"
+        "overflow-y": "auto",
       },
-      attrs: { id: "order-table" }
+      attrs: { id: "order-table" },
     },
     [
       _c(
         "table",
         {
           staticClass:
-            "table table-small-font no-mb table-bordered table-striped"
+            "table table-small-font no-mb table-bordered table-striped",
         },
         [
           _vm._m(0),
@@ -26031,7 +26042,7 @@ var render = function() {
             : _c(
                 "tbody",
                 [
-                  _vm._l(_vm.p_trades, function(i, index) {
+                  _vm._l(_vm.p_trades, function (i, index) {
                     return _c(
                       "tr",
                       [
@@ -26040,8 +26051,8 @@ var render = function() {
                               _c("td", [
                                 _c("img", {
                                   staticStyle: { height: "25px" },
-                                  attrs: { src: i.currency.image }
-                                })
+                                  attrs: { src: i.currency.image },
+                                }),
                               ]),
                               _vm._v(" "),
                               _c("td", [_vm._v(_vm._s(i.currency.name))]),
@@ -26051,13 +26062,13 @@ var render = function() {
                                   "$" +
                                     _vm._s(_vm.formatPrice(i.traded_amount)) +
                                     " "
-                                )
+                                ),
                               ]),
                               _vm._v(" "),
                               _c("td", [
                                 _vm._v(
                                   _vm._s(i.qty) + " " + _vm._s(i.currency.sym)
-                                )
+                                ),
                               ]),
                               _vm._v(" "),
                               _c("td", [
@@ -26065,17 +26076,17 @@ var render = function() {
                                   ? _c(
                                       "span",
                                       {
-                                        staticClass: "badge badge-success p-2"
+                                        staticClass: "badge badge-success p-2",
                                       },
                                       [_vm._v("Buy")]
                                     )
                                   : _c(
                                       "span",
                                       {
-                                        staticClass: "badge badge-warning p-2"
+                                        staticClass: "badge badge-warning p-2",
                                       },
                                       [_vm._v("Sell")]
-                                    )
+                                    ),
                               ]),
                               _vm._v(" "),
                               _c("td", [_vm._v(_vm._s(i.leverage) + "X")]),
@@ -26083,17 +26094,17 @@ var render = function() {
                               _c("td", [
                                 _vm._v(
                                   "$" + _vm._s(_vm.formatPrice(i.closing_price))
-                                )
+                                ),
                               ]),
                               _vm._v(" "),
                               _c("td", [
                                 _vm._v(
                                   "$" + _vm._s(_vm.formatPrice(i.opening_price))
-                                )
+                                ),
                               ]),
                               _vm._v(" "),
                               _c("td", [
-                                _vm._v(_vm._s(_vm.formatPrice(i.profit)))
+                                _vm._v(_vm._s(_vm.formatPrice(i.profit))),
                               ]),
                               _vm._v(" "),
                               _c("td", [_vm._v(_vm._s(i.open_at))]),
@@ -26104,7 +26115,7 @@ var render = function() {
                                       "button",
                                       {
                                         staticClass: "btn btn-danger btn-sm",
-                                        attrs: { disabled: "" }
+                                        attrs: { disabled: "" },
                                       },
                                       [_vm._v("Close")]
                                     )
@@ -26113,31 +26124,31 @@ var render = function() {
                                       {
                                         staticClass: "btn btn-danger btn-sm",
                                         on: {
-                                          click: function($event) {
+                                          click: function ($event) {
                                             return _vm.closeOrder(i, index)
-                                          }
-                                        }
+                                          },
+                                        },
                                       },
                                       [_vm._v("Close")]
-                                    )
-                              ])
+                                    ),
+                              ]),
                             ]
-                          : _vm._e()
+                          : _vm._e(),
                       ],
                       2
                     )
                   }),
-                  _vm.p_trades.length > 3 ? _c("tr", [_vm._m(2)]) : _vm._e()
+                  _vm.p_trades.length > 3 ? _c("tr", [_vm._m(2)]) : _vm._e(),
                 ],
                 2
-              )
+              ),
         ]
-      )
+      ),
     ]
   )
 }
 var staticRenderFns = [
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
@@ -26163,21 +26174,21 @@ var staticRenderFns = [
         _vm._v(" "),
         _c("th", [_vm._v("Opened at")]),
         _vm._v(" "),
-        _c("th")
-      ])
+        _c("th"),
+      ]),
     ])
   },
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("tr", [
       _c("td", { staticClass: "text-center", attrs: { colspan: "100%" } }, [
-        _vm._v("No open trades")
-      ])
+        _vm._v("No open trades"),
+      ]),
     ])
   },
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
@@ -26186,11 +26197,11 @@ var staticRenderFns = [
       { staticClass: "text-center", attrs: { colspan: "100%" } },
       [
         _c("a", { attrs: { href: "/dashboard/trades" } }, [
-          _vm._v("View all open trades")
-        ])
+          _vm._v("View all open trades"),
+        ]),
       ]
     )
-  }
+  },
 ]
 render._withStripped = true
 
@@ -26209,7 +26220,7 @@ render._withStripped = true
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
-var render = function() {
+var render = function () {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
@@ -26231,19 +26242,19 @@ var render = function() {
                         staticClass: "btn btn-outline-primary",
                         attrs: { href: "#", "data-toggle": "tab" },
                         on: {
-                          click: function($event) {
+                          click: function ($event) {
                             return _vm.setTrade(0)
-                          }
-                        }
+                          },
+                        },
                       },
                       [
                         _vm._v(
                           "\n                    Open Orders (" +
                             _vm._s(_vm.p_trades.length) +
                             ")\n                "
-                        )
+                        ),
                       ]
-                    )
+                    ),
                   ]),
                   _vm._v(" "),
                   _c("li", [
@@ -26253,20 +26264,20 @@ var render = function() {
                         staticClass: "btn btn-outline-primary",
                         attrs: { href: "#", "data-toggle": "tab" },
                         on: {
-                          click: function($event) {
+                          click: function ($event) {
                             return _vm.setTrade(1)
-                          }
-                        }
+                          },
+                        },
                       },
                       [
                         _vm._v(
                           "\n                    Closed Trades(" +
                             _vm._s(_vm.closed_trades.length) +
                             ")\n                "
-                        )
+                        ),
                       ]
-                    )
-                  ])
+                    ),
+                  ]),
                 ]),
                 _vm._v(" "),
                 _c("div", { staticClass: "tab-content" }, [
@@ -26274,14 +26285,14 @@ var render = function() {
                     "div",
                     {
                       staticClass: "tab-pane fade in active",
-                      attrs: { id: "open" }
+                      attrs: { id: "open" },
                     },
                     [
                       _c(
                         "div",
                         {
                           staticClass: "table-responsive",
-                          attrs: { "data-pattern": "priority-columns" }
+                          attrs: { "data-pattern": "priority-columns" },
                         },
                         [
                           _vm.is_type === 0
@@ -26289,7 +26300,7 @@ var render = function() {
                                 "table",
                                 {
                                   staticClass:
-                                    "table table-small-font no-mb table-bordered table-striped"
+                                    "table table-small-font no-mb table-bordered table-striped",
                                 },
                                 [
                                   _vm._m(0),
@@ -26298,166 +26309,168 @@ var render = function() {
                                     ? _c("tbody", [_vm._m(1)])
                                     : _c(
                                         "tbody",
-                                        _vm._l(_vm.p_trades, function(
-                                          i,
-                                          index
-                                        ) {
-                                          return _c("tr", [
-                                            _c("td", [
-                                              _vm._v(_vm._s(i.open_at))
-                                            ]),
-                                            _vm._v(" "),
-                                            _c("td", [
-                                              _vm._v(
-                                                _vm._s(
-                                                  i.currency
-                                                    ? i.currency.name
-                                                    : ""
-                                                )
-                                              )
-                                            ]),
-                                            _vm._v(" "),
-                                            _c("td", [
-                                              _vm._v(
-                                                "$" +
-                                                  _vm._s(
-                                                    _vm.formatPrice(
-                                                      i.traded_amount
-                                                    )
-                                                  ) +
-                                                  " "
-                                              )
-                                            ]),
-                                            _vm._v(" "),
-                                            _c("td", [
-                                              _vm._v(
-                                                _vm._s(i.qty) +
-                                                  " " +
-                                                  _vm._s(
-                                                    i.currency
-                                                      ? i.currency.sym
-                                                      : ""
-                                                  )
-                                              )
-                                            ]),
-                                            _vm._v(" "),
-                                            _c("td", [
-                                              _vm._v(_vm._s(i.leverage) + "X")
-                                            ]),
-                                            _vm._v(" "),
-                                            _c("td", [
-                                              _vm._v(
-                                                "$" +
-                                                  _vm._s(
-                                                    _vm.formatPrice(
-                                                      i.closing_price
-                                                    )
-                                                  )
-                                              )
-                                            ]),
-                                            _vm._v(" "),
-                                            _c("td", [
-                                              _vm._v(
-                                                "$" +
-                                                  _vm._s(
-                                                    _vm.formatPrice(
-                                                      i.opening_price
-                                                    )
-                                                  )
-                                              )
-                                            ]),
-                                            _vm._v(" "),
-                                            _c(
-                                              "td",
-                                              {
-                                                class:
-                                                  i.profit < 1
-                                                    ? "text-danger"
-                                                    : "text-success"
-                                              },
-                                              [
+                                        _vm._l(
+                                          _vm.p_trades,
+                                          function (i, index) {
+                                            return _c("tr", [
+                                              _c("td", [
+                                                _vm._v(_vm._s(i.open_at)),
+                                              ]),
+                                              _vm._v(" "),
+                                              _c("td", [
                                                 _vm._v(
                                                   _vm._s(
-                                                    _vm.formatPrice(i.profit)
+                                                    i.currency
+                                                      ? i.currency.name
+                                                      : ""
                                                   )
-                                                )
-                                              ]
-                                            ),
-                                            _vm._v(" "),
-                                            _c("td", [
-                                              i.trade_type === "buy"
-                                                ? _c(
-                                                    "span",
-                                                    {
-                                                      staticClass:
-                                                        "badge badge-success p-2"
-                                                    },
-                                                    [_vm._v("Buy")]
-                                                  )
-                                                : _c(
-                                                    "span",
-                                                    {
-                                                      staticClass:
-                                                        "badge badge-warning p-2"
-                                                    },
-                                                    [_vm._v("Sell")]
-                                                  )
-                                            ]),
-                                            _vm._v(" "),
-                                            _c("td", [
-                                              i.status === 0
-                                                ? _c(
-                                                    "span",
-                                                    {
-                                                      staticClass:
-                                                        "badge badge-warning p-2"
-                                                    },
-                                                    [_vm._v("Running")]
-                                                  )
-                                                : _vm._e()
-                                            ]),
-                                            _vm._v(" "),
-                                            _c("td", [
-                                              i.by_admin
-                                                ? _c(
-                                                    "button",
-                                                    {
-                                                      staticClass:
-                                                        "btn btn-danger",
-                                                      attrs: { disabled: "" }
-                                                    },
-                                                    [_vm._v("Close")]
-                                                  )
-                                                : _c(
-                                                    "button",
-                                                    {
-                                                      staticClass:
-                                                        "btn btn-danger",
-                                                      on: {
-                                                        click: function(
-                                                          $event
-                                                        ) {
-                                                          return _vm.closeOrder(
-                                                            i,
-                                                            index
-                                                          )
-                                                        }
-                                                      }
-                                                    },
-                                                    [_vm._v("Close")]
-                                                  )
+                                                ),
+                                              ]),
+                                              _vm._v(" "),
+                                              _c("td", [
+                                                _vm._v(
+                                                  "$" +
+                                                    _vm._s(
+                                                      _vm.formatPrice(
+                                                        i.traded_amount
+                                                      )
+                                                    ) +
+                                                    " "
+                                                ),
+                                              ]),
+                                              _vm._v(" "),
+                                              _c("td", [
+                                                _vm._v(
+                                                  _vm._s(i.qty) +
+                                                    " " +
+                                                    _vm._s(
+                                                      i.currency
+                                                        ? i.currency.sym
+                                                        : ""
+                                                    )
+                                                ),
+                                              ]),
+                                              _vm._v(" "),
+                                              _c("td", [
+                                                _vm._v(
+                                                  _vm._s(i.leverage) + "X"
+                                                ),
+                                              ]),
+                                              _vm._v(" "),
+                                              _c("td", [
+                                                _vm._v(
+                                                  "$" +
+                                                    _vm._s(
+                                                      _vm.formatPrice(
+                                                        i.closing_price
+                                                      )
+                                                    )
+                                                ),
+                                              ]),
+                                              _vm._v(" "),
+                                              _c("td", [
+                                                _vm._v(
+                                                  "$" +
+                                                    _vm._s(
+                                                      _vm.formatPrice(
+                                                        i.opening_price
+                                                      )
+                                                    )
+                                                ),
+                                              ]),
+                                              _vm._v(" "),
+                                              _c(
+                                                "td",
+                                                {
+                                                  class:
+                                                    i.profit < 1
+                                                      ? "text-danger"
+                                                      : "text-success",
+                                                },
+                                                [
+                                                  _vm._v(
+                                                    _vm._s(
+                                                      _vm.formatPrice(i.profit)
+                                                    )
+                                                  ),
+                                                ]
+                                              ),
+                                              _vm._v(" "),
+                                              _c("td", [
+                                                i.trade_type === "buy"
+                                                  ? _c(
+                                                      "span",
+                                                      {
+                                                        staticClass:
+                                                          "badge badge-success p-2",
+                                                      },
+                                                      [_vm._v("Buy")]
+                                                    )
+                                                  : _c(
+                                                      "span",
+                                                      {
+                                                        staticClass:
+                                                          "badge badge-warning p-2",
+                                                      },
+                                                      [_vm._v("Sell")]
+                                                    ),
+                                              ]),
+                                              _vm._v(" "),
+                                              _c("td", [
+                                                i.status === 0
+                                                  ? _c(
+                                                      "span",
+                                                      {
+                                                        staticClass:
+                                                          "badge badge-warning p-2",
+                                                      },
+                                                      [_vm._v("Running")]
+                                                    )
+                                                  : _vm._e(),
+                                              ]),
+                                              _vm._v(" "),
+                                              _c("td", [
+                                                i.by_admin
+                                                  ? _c(
+                                                      "button",
+                                                      {
+                                                        staticClass:
+                                                          "btn btn-danger",
+                                                        attrs: { disabled: "" },
+                                                      },
+                                                      [_vm._v("Close")]
+                                                    )
+                                                  : _c(
+                                                      "button",
+                                                      {
+                                                        staticClass:
+                                                          "btn btn-danger",
+                                                        on: {
+                                                          click: function (
+                                                            $event
+                                                          ) {
+                                                            return _vm.closeOrder(
+                                                              i,
+                                                              index
+                                                            )
+                                                          },
+                                                        },
+                                                      },
+                                                      [_vm._v("Close")]
+                                                    ),
+                                              ]),
                                             ])
-                                          ])
-                                        }),
+                                          }
+                                        ),
                                         0
-                                      )
+                                      ),
                                 ]
                               )
                             : _c(
                                 "table",
                                 {
                                   staticClass:
-                                    "table table-small-font no-mb table-bordered table-striped"
+                                    "table table-small-font no-mb table-bordered table-striped",
                                 },
                                 [
                                   _c("thead", [
@@ -26490,22 +26503,22 @@ var render = function() {
                                         ? _c("th", [_vm._v("Result")])
                                         : _vm._e(),
                                       _vm._v(" "),
-                                      _vm.is_type === 0 ? _c("th") : _vm._e()
-                                    ])
+                                      _vm.is_type === 0 ? _c("th") : _vm._e(),
+                                    ]),
                                   ]),
                                   _vm._v(" "),
                                   _vm.closed_trades < 1
                                     ? _c("tbody", [_vm._m(2)])
                                     : _c(
                                         "tbody",
-                                        _vm._l(_vm.closed_trades, function(i) {
+                                        _vm._l(_vm.closed_trades, function (i) {
                                           return _c("tr", [
                                             _c("td", [
-                                              _vm._v(_vm._s(i.open_at))
+                                              _vm._v(_vm._s(i.open_at)),
                                             ]),
                                             _vm._v(" "),
                                             _c("td", [
-                                              _vm._v(" " + _vm._s(i.close_at))
+                                              _vm._v(" " + _vm._s(i.close_at)),
                                             ]),
                                             _vm._v(" "),
                                             _c("td", [
@@ -26515,13 +26528,13 @@ var render = function() {
                                                     ? i.currency.name
                                                     : ""
                                                 )
-                                              )
+                                              ),
                                             ]),
                                             _vm._v(" "),
                                             _c("td", [
                                               _vm._v(
                                                 _vm._s(i.traded_amount) + " USD"
-                                              )
+                                              ),
                                             ]),
                                             _vm._v(" "),
                                             _c("td", [
@@ -26533,7 +26546,7 @@ var render = function() {
                                                       ? i.currency.sym
                                                       : ""
                                                   )
-                                              )
+                                              ),
                                             ]),
                                             _vm._v(" "),
                                             _c(
@@ -26542,7 +26555,7 @@ var render = function() {
                                                 class:
                                                   i.profit < 1
                                                     ? "text-danger"
-                                                    : "text-success"
+                                                    : "text-success",
                                               },
                                               [_vm._v(_vm._s(i.profit))]
                                             ),
@@ -26555,7 +26568,7 @@ var render = function() {
                                                       i.opening_price
                                                     )
                                                   )
-                                              )
+                                              ),
                                             ]),
                                             _vm._v(" "),
                                             _c("td", [
@@ -26566,7 +26579,7 @@ var render = function() {
                                                       i.closing_price
                                                     )
                                                   )
-                                              )
+                                              ),
                                             ]),
                                             _vm._v(" "),
                                             _c("td", [
@@ -26575,7 +26588,7 @@ var render = function() {
                                                     "span",
                                                     {
                                                       staticClass:
-                                                        "badge badge-success p-2"
+                                                        "badge badge-success p-2",
                                                     },
                                                     [_vm._v("Buy")]
                                                   )
@@ -26583,10 +26596,10 @@ var render = function() {
                                                     "span",
                                                     {
                                                       staticClass:
-                                                        "badge badge-warning p-2"
+                                                        "badge badge-warning p-2",
                                                     },
                                                     [_vm._v("Sell")]
-                                                  )
+                                                  ),
                                             ]),
                                             _vm._v(" "),
                                             i.status === 0
@@ -26596,11 +26609,11 @@ var render = function() {
                                                         "span",
                                                         {
                                                           staticClass:
-                                                            "badge badge-warning p-2"
+                                                            "badge badge-warning p-2",
                                                         },
                                                         [_vm._v("Running")]
                                                       )
-                                                    : _vm._e()
+                                                    : _vm._e(),
                                                 ])
                                               : _vm._e(),
                                             _vm._v(" "),
@@ -26611,7 +26624,7 @@ var render = function() {
                                                         "span",
                                                         {
                                                           staticClass:
-                                                            "badge badge-danger p-2"
+                                                            "badge badge-danger p-2",
                                                         },
                                                         [_vm._v("loss")]
                                                       )
@@ -26622,7 +26635,7 @@ var render = function() {
                                                         "span",
                                                         {
                                                           staticClass:
-                                                            "badge badge-success p-2"
+                                                            "badge badge-success p-2",
                                                         },
                                                         [_vm._v("Won")]
                                                       )
@@ -26633,11 +26646,11 @@ var render = function() {
                                                         "span",
                                                         {
                                                           staticClass:
-                                                            "badge badge-warning p-2"
+                                                            "badge badge-warning p-2",
                                                         },
                                                         [_vm._v("Draw")]
                                                       )
-                                                    : _vm._e()
+                                                    : _vm._e(),
                                                 ])
                                               : _vm._e(),
                                             _vm._v(" "),
@@ -26650,8 +26663,8 @@ var render = function() {
                                                           staticClass:
                                                             "btn btn-danger",
                                                           attrs: {
-                                                            disabled: ""
-                                                          }
+                                                            disabled: "",
+                                                          },
                                                         },
                                                         [_vm._v("Close")]
                                                       )
@@ -26662,30 +26675,30 @@ var render = function() {
                                                             "btn btn-danger",
                                                           attrs: {
                                                             click:
-                                                              "closeOrder(i.id)"
-                                                          }
+                                                              "closeOrder(i.id)",
+                                                          },
                                                         },
                                                         [_vm._v("Close")]
-                                                      )
+                                                      ),
                                                 ])
-                                              : _vm._e()
+                                              : _vm._e(),
                                           ])
                                         }),
                                         0
-                                      )
+                                      ),
                                 ]
-                              )
+                              ),
                         ]
-                      )
+                      ),
                     ]
-                  )
+                  ),
                 ]),
                 _vm._v(" "),
-                _c("div", { staticClass: "clock w-100" })
-              ])
+                _c("div", { staticClass: "clock w-100" }),
+              ]),
             ]
-          )
-        ])
+          ),
+        ]),
       ]),
       _vm._v(" "),
       _c("trade_footer", {
@@ -26696,15 +26709,15 @@ var render = function() {
           margin: _vm.margin,
           free_margin: _vm.freeMargin,
           equity: _vm.equity,
-          pnl: _vm.pnl
-        }
-      })
+          pnl: _vm.pnl,
+        },
+      }),
     ],
     1
   )
 }
 var staticRenderFns = [
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
@@ -26730,30 +26743,30 @@ var staticRenderFns = [
         _vm._v(" "),
         _c("th", [_vm._v("Status")]),
         _vm._v(" "),
-        _c("th")
-      ])
+        _c("th"),
+      ]),
     ])
   },
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("tr", [
       _c("td", { staticClass: "text-center", attrs: { colspan: "100%" } }, [
-        _vm._v("No open trades")
-      ])
+        _vm._v("No open trades"),
+      ]),
     ])
   },
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("tr", [
       _c("td", { staticClass: "text-center", attrs: { colspan: "100%" } }, [
-        _vm._v("No closed trades")
-      ])
+        _vm._v("No closed trades"),
+      ]),
     ])
-  }
+  },
 ]
 render._withStripped = true
 
@@ -26772,7 +26785,7 @@ render._withStripped = true
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
-var render = function() {
+var render = function () {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
@@ -26789,8 +26802,8 @@ var render = function() {
               _c("a", { attrs: { href: "#" } }, [
                 _c("img", {
                   staticClass: "img-fluid",
-                  attrs: { src: _vm.user.avatar, width: "250", alt: "" }
-                })
+                  attrs: { src: _vm.user.avatar, width: "250", alt: "" },
+                }),
               ]),
               _vm._v(" "),
               _c(
@@ -26801,17 +26814,18 @@ var render = function() {
                     _c(
                       "h4",
                       {
-                        staticClass: "display-4 text-capitalize text-white mb-0"
+                        staticClass:
+                          "display-4 text-capitalize text-white mb-0",
                       },
                       [_vm._v(_vm._s(_vm.user.name))]
-                    )
+                    ),
                   ]),
                   _vm._v(" "),
                   _c(
                     "div",
                     {
                       staticClass:
-                        "profile-menu mt-4 theme-background border border-left-0 border-right-0 z-index-1 p-2"
+                        "profile-menu mt-4 theme-background border border-left-0 border-right-0 z-index-1 p-2",
                     },
                     [
                       _c("div", { staticClass: "d-sm-flex" }, [
@@ -26821,7 +26835,7 @@ var render = function() {
                             {
                               staticClass:
                                 "nav nav-pills flex-column flex-sm-row",
-                              attrs: { id: "myTab", role: "tablist" }
+                              attrs: { id: "myTab", role: "tablist" },
                             },
                             [
                               _c("li", { staticClass: "nav-item ml-2" }, [
@@ -26834,13 +26848,13 @@ var render = function() {
                                         ? "btn-primary"
                                         : "btn-outline-info",
                                     on: {
-                                      click: function($event) {
+                                      click: function ($event) {
                                         return _vm.setTab("profile")
-                                      }
-                                    }
+                                      },
+                                    },
                                   },
                                   [_vm._v(" Profile")]
-                                )
+                                ),
                               ]),
                               _vm._v(" "),
                               _c("li", { staticClass: "nav-item ml-2" }, [
@@ -26853,13 +26867,13 @@ var render = function() {
                                         ? "btn-primary"
                                         : "btn-outline-info",
                                     on: {
-                                      click: function($event) {
+                                      click: function ($event) {
                                         return _vm.setTab("accounts")
-                                      }
-                                    }
+                                      },
+                                    },
                                   },
                                   [_vm._v(" Accounts")]
-                                )
+                                ),
                               ]),
                               _vm._v(" "),
                               _c("li", { staticClass: "nav-item ml-2" }, [
@@ -26872,13 +26886,13 @@ var render = function() {
                                         ? "btn-primary"
                                         : "btn-outline-info",
                                     on: {
-                                      click: function($event) {
+                                      click: function ($event) {
                                         return _vm.setTab("transactions")
-                                      }
-                                    }
+                                      },
+                                    },
                                   },
                                   [_vm._v(" Transaction")]
-                                )
+                                ),
                               ]),
                               _vm._v(" "),
                               _c("li", { staticClass: "nav-item ml-2" }, [
@@ -26891,13 +26905,13 @@ var render = function() {
                                         ? "btn-primary"
                                         : "btn-outline-info",
                                     on: {
-                                      click: function($event) {
+                                      click: function ($event) {
                                         return _vm.setTab("trades")
-                                      }
-                                    }
+                                      },
+                                    },
                                   },
                                   [_vm._v(" Trades")]
-                                )
+                                ),
                               ]),
                               _vm._v(" "),
                               _c(
@@ -26913,27 +26927,27 @@ var render = function() {
                                           ? "btn-primary"
                                           : "btn-outline-info",
                                       on: {
-                                        click: function($event) {
+                                        click: function ($event) {
                                           return _vm.setTab("messages")
-                                        }
-                                      }
+                                        },
+                                      },
                                     },
                                     [_vm._v(" Messages")]
-                                  )
+                                  ),
                                 ]
-                              )
+                              ),
                             ]
-                          )
-                        ])
-                      ])
+                          ),
+                        ]),
+                      ]),
                     ]
-                  )
+                  ),
                 ]
-              )
-            ])
-          ])
-        ])
-      ])
+              ),
+            ]),
+          ]),
+        ]),
+      ]),
     ]),
     _vm._v(" "),
     _c("div", { staticClass: "row mt-2 mb4" }, [
@@ -26947,18 +26961,19 @@ var render = function() {
                   _c(
                     "div",
                     {
-                      staticClass: "sub-header mt-3 py-3 px-3  d-sm-flex w-100 "
+                      staticClass:
+                        "sub-header mt-3 py-3 px-3  d-sm-flex w-100 ",
                     },
                     [
                       _vm._m(2),
                       _vm._v(" "),
                       _c("div", { staticClass: "w-sm-100 mr-auto" }, [
                         _c("span", { staticClass: "h6 my-auto" }, [
-                          _vm._v(_vm._s(_vm.user.name))
-                        ])
+                          _vm._v(_vm._s(_vm.user.name)),
+                        ]),
                       ]),
                       _vm._v(" "),
-                      _vm._m(3)
+                      _vm._m(3),
                     ]
                   ),
                   _vm._v(" "),
@@ -26970,11 +26985,11 @@ var render = function() {
                       _vm._v(" "),
                       _c("div", { staticClass: "w-sm-100 mr-auto" }, [
                         _c("span", { staticClass: "h6" }, [
-                          _vm._v(_vm._s(_vm.user.username))
-                        ])
+                          _vm._v(_vm._s(_vm.user.username)),
+                        ]),
                       ]),
                       _vm._v(" "),
-                      _vm._m(5)
+                      _vm._m(5),
                     ]
                   ),
                   _vm._v(" "),
@@ -26986,16 +27001,16 @@ var render = function() {
                       _vm._v(" "),
                       _c("div", { staticClass: "w-sm-100 mr-auto" }, [
                         _c("span", { staticClass: "h6" }, [
-                          _vm._v(_vm._s(_vm.user.email))
-                        ])
+                          _vm._v(_vm._s(_vm.user.email)),
+                        ]),
                       ]),
                       _vm._v(" "),
-                      _vm._m(7)
+                      _vm._m(7),
                     ]
-                  )
-                ])
-              ])
-            ])
+                  ),
+                ]),
+              ]),
+            ]),
           ])
         : _vm._e(),
       _vm._v(" "),
@@ -27012,22 +27027,25 @@ var render = function() {
                       href: "#",
                       "aria-expanded": "false",
                       "data-toggle": "modal",
-                      "data-target": ".bd-example-modal-lg"
-                    }
+                      "data-target": ".bd-example-modal-lg",
+                    },
                   },
                   [
                     _c(
                       "h5",
                       {
                         staticClass: "ml-3 mb-0",
-                        staticStyle: { color: "#27B254", "font-weight": "bold" }
+                        staticStyle: {
+                          color: "#27B254",
+                          "font-weight": "bold",
+                        },
                       },
                       [_vm._v("Account balance : $" + _vm._s(_vm.user.balance))]
-                    )
+                    ),
                   ]
-                )
-              ])
-            ])
+                ),
+              ]),
+            ]),
           ])
         : _vm._e(),
       _vm._v(" "),
@@ -27040,7 +27058,7 @@ var render = function() {
                 _vm.transactions.length < 1
                   ? _c("div", { staticClass: "text-center p-4" }, [
                       _c("p", { staticClass: "h5" }, [
-                        _vm._v("No transactions  yet")
+                        _vm._v("No transactions  yet"),
                       ]),
                       _vm._v(" "),
                       _c(
@@ -27049,15 +27067,15 @@ var render = function() {
                           staticClass: "btn btn-primary mt-4",
                           attrs: {
                             "data-toggle": "modal",
-                            "data-target": ".bd-example-modal-lg"
-                          }
+                            "data-target": ".bd-example-modal-lg",
+                          },
                         },
                         [_vm._v("Make a deposit")]
-                      )
+                      ),
                     ])
-                  : _vm._e()
-              ])
-            ])
+                  : _vm._e(),
+              ]),
+            ]),
           ])
         : _vm._e(),
       _vm._v(" "),
@@ -27069,7 +27087,9 @@ var render = function() {
               _c("div", { staticClass: "card-body" }, [
                 _vm.trades.length < 1
                   ? _c("div", { staticClass: "text-center p-4" }, [
-                      _c("p", { staticClass: "h5" }, [_vm._v("No trades  yet")])
+                      _c("p", { staticClass: "h5" }, [
+                        _vm._v("No trades  yet"),
+                      ]),
                     ])
                   : _c(
                       "div",
@@ -27084,14 +27104,14 @@ var render = function() {
                             close_trade_url: _vm.close_trade_url,
                             trade_url: _vm.trade_url,
                             all_trade_url: _vm.all_trade_url,
-                            balance: _vm.user.balance
-                          }
-                        })
+                            balance: _vm.user.balance,
+                          },
+                        }),
                       ],
                       1
-                    )
-              ])
-            ])
+                    ),
+              ]),
+            ]),
           ])
         : _vm._e(),
       _vm._v(" "),
@@ -27104,46 +27124,46 @@ var render = function() {
                 _vm.messages.length < 1
                   ? _c("div", { staticClass: "text-center p-4" }, [
                       _c("p", { staticClass: "h5" }, [
-                        _vm._v("No messages  yet")
-                      ])
+                        _vm._v("No messages  yet"),
+                      ]),
                     ])
-                  : _vm._e()
-              ])
-            ])
+                  : _vm._e(),
+              ]),
+            ]),
           ])
-        : _vm._e()
-    ])
+        : _vm._e(),
+    ]),
   ])
 }
 var staticRenderFns = [
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "holder-image" }, [
       _c("img", {
         staticClass: "img-fluid d-none",
-        attrs: { src: "/dist/images/profile-cover.jpg", alt: "" }
-      })
+        attrs: { src: "/dist/images/profile-cover.jpg", alt: "" },
+      }),
     ])
   },
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "card-header" }, [
-      _c("h5", { staticClass: "card-title" }, [_vm._v("Profile details")])
+      _c("h5", { staticClass: "card-title" }, [_vm._v("Profile details")]),
     ])
   },
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "w-sm-100 mr-auto" }, [
-      _c("span", { staticClass: "h6 my-auto" }, [_vm._v("Full Name ")])
+      _c("span", { staticClass: "h6 my-auto" }, [_vm._v("Full Name ")]),
     ])
   },
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
@@ -27152,20 +27172,20 @@ var staticRenderFns = [
       { staticClass: "breadcrumb bg-transparent align-self-center m-0 p-0" },
       [
         _c("li", { staticClass: "breadcrumb-item" }, [
-          _c("i", { staticClass: "fa fa-edit" })
-        ])
+          _c("i", { staticClass: "fa fa-edit" }),
+        ]),
       ]
     )
   },
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "w-sm-100 mr-auto" }, [
-      _c("span", { staticClass: "h6 my-auto" }, [_vm._v("Username ")])
+      _c("span", { staticClass: "h6 my-auto" }, [_vm._v("Username ")]),
     ])
   },
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
@@ -27174,20 +27194,20 @@ var staticRenderFns = [
       { staticClass: "breadcrumb bg-transparent align-self-center m-0 p-0" },
       [
         _c("li", { staticClass: "breadcrumb-item" }, [
-          _c("i", { staticClass: "fa fa-edit" })
-        ])
+          _c("i", { staticClass: "fa fa-edit" }),
+        ]),
       ]
     )
   },
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "w-sm-100 mr-auto" }, [
-      _c("span", { staticClass: "h6 my-auto" }, [_vm._v("Email Address")])
+      _c("span", { staticClass: "h6 my-auto" }, [_vm._v("Email Address")]),
     ])
   },
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
@@ -27196,51 +27216,51 @@ var staticRenderFns = [
       { staticClass: "breadcrumb bg-transparent align-self-center m-0 p-0" },
       [
         _c("li", { staticClass: "breadcrumb-item" }, [
-          _c("i", { staticClass: "fa fa-edit" })
-        ])
+          _c("i", { staticClass: "fa fa-edit" }),
+        ]),
       ]
     )
   },
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "card-header" }, [
       _c("h5", { staticClass: "card-title" }, [_vm._v("Your accounts")]),
       _vm._v(" "),
-      _c("p", [_vm._v("Below accounts that you’d like to withdraw funds.")])
+      _c("p", [_vm._v("Below accounts that you’d like to withdraw funds.")]),
     ])
   },
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "card-header" }, [
       _c("h5", { staticClass: "card-title" }, [_vm._v("Your transactions")]),
       _vm._v(" "),
-      _c("p", [_vm._v("All your account transactions.")])
+      _c("p", [_vm._v("All your account transactions.")]),
     ])
   },
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "card-header" }, [
       _c("h5", { staticClass: "card-title" }, [_vm._v("Your trades ")]),
       _vm._v(" "),
-      _c("p", [_vm._v("All your account trades.")])
+      _c("p", [_vm._v("All your account trades.")]),
     ])
   },
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "card-header" }, [
       _c("h5", { staticClass: "card-title" }, [_vm._v("Messages")]),
       _vm._v(" "),
-      _c("p", [_vm._v("Account messages.")])
+      _c("p", [_vm._v("Account messages.")]),
     ])
-  }
+  },
 ]
 render._withStripped = true
 
@@ -27259,7 +27279,7 @@ render._withStripped = true
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
-var render = function() {
+var render = function () {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
@@ -27273,18 +27293,18 @@ var render = function() {
             _c("p", { staticClass: "acct-type" }, [
               _c("i", { staticClass: "fa fa-gem" }),
               _vm._v(
-                " \r\n                    " +
+                " \n                    " +
                   _vm._s(_vm.plan) +
-                  "\r\n                "
-              )
-            ])
+                  "\n                "
+              ),
+            ]),
           ]),
           _vm._v(" "),
           _c("div", { staticClass: "px-4 py-1" }, [
             _c("p", [
               _c("span", [
                 _vm._v("EQUITY: "),
-                _c("strong", [_vm._v(_vm._s(_vm.formatPrice(_vm.equity)))])
+                _c("strong", [_vm._v(_vm._s(_vm.formatPrice(_vm.equity)))]),
               ]),
               _vm._v(" "),
               _c("span", [
@@ -27293,24 +27313,26 @@ var render = function() {
                   "strong",
                   { class: _vm.pnl < 1 ? "text-danger" : "text-success" },
                   [_vm._v(_vm._s(_vm.formatPrice(_vm.pnl)))]
-                )
+                ),
               ]),
               _vm._v(" "),
               _c("span", [
                 _vm._v("+  MARGIN: "),
-                _c("strong", [_vm._v(_vm._s(_vm.formatPrice(_vm.margin)))])
+                _c("strong", [_vm._v(_vm._s(_vm.formatPrice(_vm.margin)))]),
               ]),
               _vm._v(" "),
               _c("span", [
-                _vm._v("+  FREE MARGIN: "),
-                _c("strong", [_vm._v(_vm._s(_vm.formatPrice(_vm.free_margin)))])
-              ])
-            ])
+                _vm._v("+  FREE MARGIN : "),
+                _c("strong", [
+                  _vm._v(_vm._s(_vm.formatPrice(_vm.free_margin))),
+                ]),
+              ]),
+            ]),
           ]),
           _vm._v(" "),
-          _c("div")
+          _c("div"),
         ]
-      )
+      ),
     ]),
     _vm._v(" "),
     _c("footer", { staticClass: "foot d-sm-none d-md-none d-lg-none" }, [
@@ -27318,7 +27340,7 @@ var render = function() {
         "div",
         {
           staticClass: "d-flex align-items-center justify-content-center",
-          staticStyle: { "padding-left": "1rem", "padding-right": "1rem" }
+          staticStyle: { "padding-left": "1rem", "padding-right": "1rem" },
         },
         [
           _c("div", [
@@ -27329,32 +27351,32 @@ var render = function() {
                 [
                   _vm._v("PROFIT/LOSS:"),
                   _c("br"),
-                  _vm._v(_vm._s(_vm.formatPrice(_vm.pnl)) + " |")
+                  _vm._v(_vm._s(_vm.formatPrice(_vm.pnl)) + " |"),
                 ]
               ),
-              _vm._v(" \r\n                    "),
+              _vm._v(" \n                    "),
               _c("span", [
                 _vm._v("EQUITY:"),
                 _c("br"),
-                _vm._v(" " + _vm._s(_vm.formatPrice(_vm.equity)) + " |")
+                _vm._v(" " + _vm._s(_vm.formatPrice(_vm.equity)) + " |"),
               ]),
-              _vm._v(" \r\n                    "),
+              _vm._v(" \n                    "),
               _c("span", [
                 _vm._v("MARGIN:"),
                 _c("br"),
-                _vm._v(" " + _vm._s(_vm.formatPrice(_vm.margin)) + " |")
+                _vm._v(" " + _vm._s(_vm.formatPrice(_vm.margin)) + " |"),
               ]),
-              _vm._v(" \r\n                    "),
+              _vm._v(" \n                    "),
               _c("span", [
                 _vm._v("FREE MARGIN:"),
                 _c("br"),
-                _vm._v(" " + _vm._s(_vm.formatPrice(_vm.free_margin)))
-              ])
-            ])
-          ])
+                _vm._v(" " + _vm._s(_vm.formatPrice(_vm.free_margin))),
+              ]),
+            ]),
+          ]),
         ]
-      )
-    ])
+      ),
+    ]),
   ])
 }
 var staticRenderFns = []
@@ -27375,7 +27397,7 @@ render._withStripped = true
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
-var render = function() {
+var render = function () {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
@@ -27391,14 +27413,14 @@ var render = function() {
                 "div",
                 {
                   staticClass: "table-responsive",
-                  attrs: { "data-pattern": "priority-columns" }
+                  attrs: { "data-pattern": "priority-columns" },
                 },
                 [
                   _c(
                     "table",
                     {
                       staticClass:
-                        "table table-small-font no-mb table-bordered table-striped"
+                        "table table-small-font no-mb table-bordered table-striped",
                     },
                     [
                       _vm._m(0),
@@ -27407,20 +27429,20 @@ var render = function() {
                         ? _c("tbody", [_vm._m(1)])
                         : _c(
                             "tbody",
-                            _vm._l(_vm.closed_trades, function(i) {
+                            _vm._l(_vm.closed_trades, function (i) {
                               return _c("tr", [
                                 _c("td", [_vm._v(_vm._s(i.open_at))]),
                                 _vm._v(" "),
                                 _c("td", [_vm._v(_vm._s(i.currency.name))]),
                                 _vm._v(" "),
                                 _c("td", [
-                                  _vm._v(_vm._s(i.traded_amount) + " USD")
+                                  _vm._v(_vm._s(i.traded_amount) + " USD"),
                                 ]),
                                 _vm._v(" "),
                                 _c("td", [
                                   _vm._v(
                                     _vm._s(i.qty) + " " + _vm._s(i.currency.sym)
-                                  )
+                                  ),
                                 ]),
                                 _vm._v(" "),
                                 _c("td", [_vm._v(_vm._s(i.profit))]),
@@ -27429,7 +27451,7 @@ var render = function() {
                                   _vm._v(
                                     "$" +
                                       _vm._s(_vm.formatPrice(i.opening_price))
-                                  )
+                                  ),
                                 ]),
                                 _vm._v(" "),
                                 _c("td", [
@@ -27437,17 +27459,19 @@ var render = function() {
                                     ? _c(
                                         "span",
                                         {
-                                          staticClass: "badge badge-success p-2"
+                                          staticClass:
+                                            "badge badge-success p-2",
                                         },
                                         [_vm._v("Buy")]
                                       )
                                     : _c(
                                         "span",
                                         {
-                                          staticClass: "badge badge-warning p-2"
+                                          staticClass:
+                                            "badge badge-warning p-2",
                                         },
                                         [_vm._v("Sell")]
-                                      )
+                                      ),
                                 ]),
                                 _vm._v(" "),
                                 i.status === 1
@@ -27457,7 +27481,7 @@ var render = function() {
                                             "span",
                                             {
                                               staticClass:
-                                                "badge badge-danger p-2"
+                                                "badge badge-danger p-2",
                                             },
                                             [_vm._v("loss")]
                                           )
@@ -27468,7 +27492,7 @@ var render = function() {
                                             "span",
                                             {
                                               staticClass:
-                                                "badge badge-success p-2"
+                                                "badge badge-success p-2",
                                             },
                                             [_vm._v("Won")]
                                           )
@@ -27479,32 +27503,32 @@ var render = function() {
                                             "span",
                                             {
                                               staticClass:
-                                                "badge badge-warning p-2"
+                                                "badge badge-warning p-2",
                                             },
                                             [_vm._v("Draw")]
                                           )
-                                        : _vm._e()
+                                        : _vm._e(),
                                     ])
-                                  : _vm._e()
+                                  : _vm._e(),
                               ])
                             }),
                             0
-                          )
+                          ),
                     ]
-                  )
+                  ),
                 ]
-              )
+              ),
             ]),
             _vm._v(" "),
-            _c("div", { staticClass: "clock w-100" })
-          ])
+            _c("div", { staticClass: "clock w-100" }),
+          ]),
         ]
-      )
-    ])
+      ),
+    ]),
   ])
 }
 var staticRenderFns = [
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
@@ -27524,20 +27548,20 @@ var staticRenderFns = [
         _vm._v(" "),
         _c("th", [_vm._v("Direction")]),
         _vm._v(" "),
-        _c("th", [_vm._v("Result")])
-      ])
+        _c("th", [_vm._v("Result")]),
+      ]),
     ])
   },
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("tr", [
       _c("td", { staticClass: "text-center", attrs: { colspan: "100%" } }, [
-        _vm._v("No closed trades")
-      ])
+        _vm._v("No closed trades"),
+      ]),
     ])
-  }
+  },
 ]
 render._withStripped = true
 
@@ -27556,7 +27580,7 @@ render._withStripped = true
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
-var render = function() {
+var render = function () {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
@@ -27573,8 +27597,8 @@ var render = function() {
               _c("a", { attrs: { href: "#" } }, [
                 _c("img", {
                   staticClass: "img-fluid",
-                  attrs: { src: _vm.user.avatar, width: "250", alt: "" }
-                })
+                  attrs: { src: _vm.user.avatar, width: "250", alt: "" },
+                }),
               ]),
               _vm._v(" "),
               _c(
@@ -27585,17 +27609,18 @@ var render = function() {
                     _c(
                       "h4",
                       {
-                        staticClass: "display-4 text-capitalize text-white mb-0"
+                        staticClass:
+                          "display-4 text-capitalize text-white mb-0",
                       },
                       [_vm._v(_vm._s(_vm.user.name))]
-                    )
+                    ),
                   ]),
                   _vm._v(" "),
                   _c(
                     "div",
                     {
                       staticClass:
-                        "profile-menu mt-4 theme-background border border-left-0 border-right-0 z-index-1 p-2"
+                        "profile-menu mt-4 theme-background border border-left-0 border-right-0 z-index-1 p-2",
                     },
                     [
                       _c("div", { staticClass: "d-sm-flex" }, [
@@ -27605,7 +27630,7 @@ var render = function() {
                             {
                               staticClass:
                                 "nav nav-pills flex-column flex-sm-row",
-                              attrs: { id: "myTab", role: "tablist" }
+                              attrs: { id: "myTab", role: "tablist" },
                             },
                             [
                               _c("li", { staticClass: "nav-item ml-2" }, [
@@ -27618,13 +27643,13 @@ var render = function() {
                                         ? "btn-primary"
                                         : "btn-outline-info",
                                     on: {
-                                      click: function($event) {
+                                      click: function ($event) {
                                         return _vm.setTab("profile")
-                                      }
-                                    }
+                                      },
+                                    },
                                   },
                                   [_vm._v(" Profile")]
-                                )
+                                ),
                               ]),
                               _vm._v(" "),
                               _c("li", { staticClass: "nav-item ml-2" }, [
@@ -27637,13 +27662,13 @@ var render = function() {
                                         ? "btn-primary"
                                         : "btn-outline-info",
                                     on: {
-                                      click: function($event) {
+                                      click: function ($event) {
                                         return _vm.setTab("trades")
-                                      }
-                                    }
+                                      },
+                                    },
                                   },
                                   [_vm._v(" Trades")]
-                                )
+                                ),
                               ]),
                               _vm._v(" "),
                               _c(
@@ -27659,27 +27684,27 @@ var render = function() {
                                           ? "btn-primary"
                                           : "btn-outline-info",
                                       on: {
-                                        click: function($event) {
+                                        click: function ($event) {
                                           return _vm.setTab("messages")
-                                        }
-                                      }
+                                        },
+                                      },
                                     },
                                     [_vm._v(" Posts")]
-                                  )
+                                  ),
                                 ]
-                              )
+                              ),
                             ]
-                          )
-                        ])
-                      ])
+                          ),
+                        ]),
+                      ]),
                     ]
-                  )
+                  ),
                 ]
-              )
-            ])
-          ])
-        ])
-      ])
+              ),
+            ]),
+          ]),
+        ]),
+      ]),
     ]),
     _vm._v(" "),
     _c("div", { staticClass: "row mt-2 mb4" }, [
@@ -27693,16 +27718,17 @@ var render = function() {
                   _c(
                     "div",
                     {
-                      staticClass: "sub-header mt-3 py-3 px-3  d-sm-flex w-100 "
+                      staticClass:
+                        "sub-header mt-3 py-3 px-3  d-sm-flex w-100 ",
                     },
                     [
                       _vm._m(2),
                       _vm._v(" "),
                       _c("div", { staticClass: "w-sm-100  text-capitalize" }, [
                         _c("span", { staticClass: "h6 my-auto" }, [
-                          _vm._v(_vm._s(_vm.user.name))
-                        ])
-                      ])
+                          _vm._v(_vm._s(_vm.user.name)),
+                        ]),
+                      ]),
                     ]
                   ),
                   _vm._v(" "),
@@ -27714,16 +27740,16 @@ var render = function() {
                       _vm._v(" "),
                       _c("div", { staticClass: "w-sm-100 text-capitalize " }, [
                         _c("span", { staticClass: "h6" }, [
-                          _vm._v(_vm._s(_vm.user.username))
-                        ])
-                      ])
+                          _vm._v(_vm._s(_vm.user.username)),
+                        ]),
+                      ]),
                     ]
                   ),
                   _vm._v(" "),
-                  _vm._m(4)
-                ])
-              ])
-            ])
+                  _vm._m(4),
+                ]),
+              ]),
+            ]),
           ])
         : _vm._e(),
       _vm._v(" "),
@@ -27732,28 +27758,30 @@ var render = function() {
             _c("div", { staticClass: "card" }, [
               _c("div", { staticClass: "card-header" }, [
                 _c("h5", { staticClass: "card-title text-capitalize" }, [
-                  _vm._v(_vm._s(_vm.user.name) + " trades ")
+                  _vm._v(_vm._s(_vm.user.name) + " trades "),
                 ]),
                 _vm._v(" "),
-                _c("p", [_vm._v("All trades.")])
+                _c("p", [_vm._v("All trades.")]),
               ]),
               _vm._v(" "),
               _c("div", { staticClass: "card-body" }, [
                 _vm.trades.length < 1
                   ? _c("div", { staticClass: "text-center p-4" }, [
-                      _c("p", { staticClass: "h5" }, [_vm._v("No trades  yet")])
+                      _c("p", { staticClass: "h5" }, [
+                        _vm._v("No trades  yet"),
+                      ]),
                     ])
                   : _c(
                       "div",
                       [
                         _c("trade_history", {
-                          attrs: { closed_trades: _vm.trades }
-                        })
+                          attrs: { closed_trades: _vm.trades },
+                        }),
                       ],
                       1
-                    )
-              ])
-            ])
+                    ),
+              ]),
+            ]),
           ])
         : _vm._e(),
       _vm._v(" "),
@@ -27766,77 +27794,77 @@ var render = function() {
                 _vm.messages.length < 1
                   ? _c("div", { staticClass: "text-center p-4" }, [
                       _c("p", { staticClass: "h5" }, [
-                        _vm._v("No messages  yet")
-                      ])
+                        _vm._v("No messages  yet"),
+                      ]),
                     ])
-                  : _vm._e()
-              ])
-            ])
+                  : _vm._e(),
+              ]),
+            ]),
           ])
-        : _vm._e()
-    ])
+        : _vm._e(),
+    ]),
   ])
 }
 var staticRenderFns = [
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "holder-image" }, [
       _c("img", {
         staticClass: "img-fluid d-none",
-        attrs: { src: "/dist/images/profile-cover.jpg", alt: "" }
-      })
+        attrs: { src: "/dist/images/profile-cover.jpg", alt: "" },
+      }),
     ])
   },
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "card-header" }, [
-      _c("h5", { staticClass: "card-title" }, [_vm._v("Profile details")])
+      _c("h5", { staticClass: "card-title" }, [_vm._v("Profile details")]),
     ])
   },
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "w-sm-100 mr-auto" }, [
-      _c("span", { staticClass: "h6 my-auto" }, [_vm._v("Full Name ")])
+      _c("span", { staticClass: "h6 my-auto" }, [_vm._v("Full Name ")]),
     ])
   },
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "w-sm-100 mr-auto" }, [
-      _c("span", { staticClass: "h6 my-auto" }, [_vm._v("Username ")])
+      _c("span", { staticClass: "h6 my-auto" }, [_vm._v("Username ")]),
     ])
   },
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "sub-header py-3 px-3 d-sm-flex w-100 " }, [
       _c("div", { staticClass: "w-sm-100 mr-auto" }, [
-        _c("span", { staticClass: "h6 my-auto" }, [_vm._v("Email Address")])
+        _c("span", { staticClass: "h6 my-auto" }, [_vm._v("Email Address")]),
       ]),
       _vm._v(" "),
       _c("div", { staticClass: "w-sm-100" }, [
-        _c("span", { staticClass: "h6" }, [_vm._v("XXXXXXXXXX")])
-      ])
+        _c("span", { staticClass: "h6" }, [_vm._v("XXXXXXXXXX")]),
+      ]),
     ])
   },
-  function() {
+  function () {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "card-header" }, [
       _c("h5", { staticClass: "card-title" }, [_vm._v("Messages")]),
       _vm._v(" "),
-      _c("p", [_vm._v("Account messages.")])
+      _c("p", [_vm._v("Account messages.")]),
     ])
-  }
+  },
 ]
 render._withStripped = true
 
@@ -27855,7 +27883,7 @@ render._withStripped = true
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
-var render = function() {
+var render = function () {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
@@ -27864,10 +27892,10 @@ var render = function() {
       "span",
       {
         staticClass: "ml-2 badge badge-primary font-weight-light",
-        staticStyle: { "font-size": "1.4em" }
+        staticStyle: { "font-size": "1.4em" },
       },
       [_vm._v(_vm._s(_vm.trades_count))]
-    )
+    ),
   ])
 }
 var staticRenderFns = []
@@ -27893,20 +27921,19 @@ __webpack_require__.r(__webpack_exports__);
 // This module is a runtime utility for cleaner component module output and will
 // be included in the final webpack user bundle.
 
-function normalizeComponent (
+function normalizeComponent(
   scriptExports,
   render,
   staticRenderFns,
   functionalTemplate,
   injectStyles,
   scopeId,
-  moduleIdentifier, /* server only */
+  moduleIdentifier /* server only */,
   shadowMode /* vue-cli only */
 ) {
   // Vue.extend constructor export interop
-  var options = typeof scriptExports === 'function'
-    ? scriptExports.options
-    : scriptExports
+  var options =
+    typeof scriptExports === 'function' ? scriptExports.options : scriptExports
 
   // render functions
   if (render) {
@@ -27926,7 +27953,8 @@ function normalizeComponent (
   }
 
   var hook
-  if (moduleIdentifier) { // server build
+  if (moduleIdentifier) {
+    // server build
     hook = function (context) {
       // 2.3 injection
       context =
@@ -27952,11 +27980,11 @@ function normalizeComponent (
   } else if (injectStyles) {
     hook = shadowMode
       ? function () {
-        injectStyles.call(
-          this,
-          (options.functional ? this.parent : this).$root.$options.shadowRoot
-        )
-      }
+          injectStyles.call(
+            this,
+            (options.functional ? this.parent : this).$root.$options.shadowRoot
+          )
+        }
       : injectStyles
   }
 
@@ -27967,16 +27995,14 @@ function normalizeComponent (
       options._injectStyles = hook
       // register for functional component in vue file
       var originalRender = options.render
-      options.render = function renderWithStyleInjection (h, context) {
+      options.render = function renderWithStyleInjection(h, context) {
         hook.call(context)
         return originalRender(h, context)
       }
     } else {
       // inject component registration as beforeCreate hook
       var existing = options.beforeCreate
-      options.beforeCreate = existing
-        ? [].concat(existing, hook)
-        : [hook]
+      options.beforeCreate = existing ? [].concat(existing, hook) : [hook]
     }
   }
 
@@ -40136,6 +40162,13 @@ var app = new Vue({
     }
   }
 });
+var checkcustomer = document.getElementById('checkcustomer');
+var convertto = document.getElementById('convertcustomer');
+convertto.addEventListener('click', function (e) {
+  e.preventDefault();
+  checkcustomer.checked = 'true';
+  alert('hello');
+});
 
 /***/ }),
 
@@ -41303,8 +41336,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\user\documents\webdev\crypto_script_main\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\Users\user\documents\webdev\crypto_script_main\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! G:\web\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! G:\web\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })

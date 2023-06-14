@@ -60,7 +60,7 @@ class CurrencyPairController extends Controller
         $rules = [
             'name' => 'string|min:1|max:255|required',
             'sym' => 'string|min:1|max:255|required',
-            'ex_sym' => 'string|min:1|max:255|required',
+            // 'ex_sym' => 'string|min:1|max:255|required',
             'type' => 'string|min:1|max:255|required',
             'image' => 'nullable',
             'base' => 'nullable',

@@ -368,7 +368,14 @@
                                                     </div>
                                                     <div class="">
                                                         <label class="mb-0 font-weight-bold" style="color: #fff;">1 :
-                                                            {{ $currency->leverage }}</label>
+                                                            {{-- {{ $currency->leverage }} --}}
+                                                            
+                                                                {{-- {{ $currency->leverage }} --}}
+                                                            <span id="lev"></span>
+                                                            <input type="range" name="" step="50" min="0" max="200" value="50"  id="ran"></label>
+                                                            
+                                                    
+                                                        
                                                     </div>
                                                 </div>
 
@@ -1630,6 +1637,13 @@
 
 @section('js')
 <script>
+           let lev = document.getElementById('lev')
+                                                            let ran = document.getElementById('ran')
+                                                            
+                                                            ran.addEventListener('change',function(){
+                                                                lev.innerHTML = this.value
+                                                                console.log(this.value)
+                                                            })
     $.ajaxSetup({
         headers: {
             'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')

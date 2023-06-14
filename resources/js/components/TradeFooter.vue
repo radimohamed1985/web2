@@ -17,7 +17,7 @@
                     <span>EQUITY: <strong>{{ formatPrice(equity) }}</strong></span>
                     <span>= &emsp;P/L: <strong :class="pnl < 1 ? 'text-danger' : 'text-success'">{{ formatPrice(pnl) }}</strong></span>
                     <span>+ &emsp;MARGIN: <strong>{{ formatPrice(margin) }}</strong></span>
-                    <span>+ &emsp;FREE MARGIN: <strong>{{ formatPrice(free_margin) }}</strong></span>
+                    <span>+ &emsp;FREE MARGIN : <strong>{{ formatPrice(free_margin) }}</strong></span>
                 </p>
             </div>
             <div></div>

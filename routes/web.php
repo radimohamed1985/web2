@@ -22,6 +22,9 @@ use Illuminate\Support\Facades\Auth;
 Route::get('profile',function(){
 return view('profiletest');
 });
+Route::get('range',function(){
+    return view('range');
+});
 Auth::routes(['verify' => true]);
 Route::get('radi',function(){
     return view('radi');
@@ -188,14 +191,14 @@ Route::get('/instantlogin/{id}', [UserController::class, 'instantLogin'])->name(
 Route::post('getresponse/webhook/store/lead', [UserController::class, 'webhook'])->name('getresponse.webhook');
 
 Route::post('testing',function(){
-$demo = (auth()->id()) +1;
+$demo = (auth()->user()->id) +1;
 // Auth::logout();
 $user = User::find($demo);
 Auth::login($user);
 return redirect()->back();
 });
 Route::post('testing2',function(){
-    $live = (auth()->id()) -1;
+    $live = (auth()->user()->id) -1;
     // Auth::logout();
     $user = User::find($live);
     Auth::login($user);
